@@ -1,0 +1,78 @@
+/* Global Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Header Styling */
+h1 {
+    color: #2c3e50;
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #34495e;
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+/* Score and University Lists */
+ul {
+    list-style-type: none;
+    padding: 0;
+    width: 60%;
+}
+
+li {
+    background-color: #ffffff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Hover Effect for List Items */
+li:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Styling Links */
+a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+/* Back Button Styling */
+a[href="{{ url_for('index') }}"] {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+a[href="{{ url_for('index') }}"]:hover {
+    background-color: #0056b3;
+}

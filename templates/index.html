@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>University Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h1>University Recommendation</h1>
+
+        <h4>Input your Baccalaureate Exam results:</h4>
+        <form method="POST" action="/">
+            <label>Subject EA:</label>
+            <input type="text" name="subiect_ea" value="{{ request.form.get('subiect_ea', '') }}" required>
+
+            <label>Grade EA:</label>
+            <input type="number" step="0.01" name="nota_finala_ea" value="{{ request.form.get('nota_finala_ea', '') }}" required>
+
+            <label>Subject EC:</label>
+            <input type="text" name="subiect_ec" value="{{ request.form.get('subiect_ec', '') }}" required>
+
+            <label>Grade EC:</label>
+            <input type="number" step="0.01" name="nota_finala_ec" value="{{ request.form.get('nota_finala_ec', '') }}" required>
+
+            <label>Subject ED:</label>
+            <input type="text" name="subiect_ed" value="{{ request.form.get('subiect_ed', '') }}" required>
+
+            <label>Grade ED:</label>
+            <input type="number" step="0.01" name="nota_finala_ed" value="{{ request.form.get('nota_finala_ed', '') }}" required>
+
+            <label>Digital Skills Score:</label>
+            <input type="number" step="0.01" name="punctaj_digitale" value="{{ request.form.get('punctaj_digitale', '') }}" required>
+
+            <label>Oral Communication Grade:</label>
+            <input type="number" step="0.01" name="oral_pmo" value="{{ request.form.get('oral_pmo', '') }}" required>
+
+            <label>Overall Grade:</label>
+            <input type="number" step="0.01" name="medie" value="{{ request.form.get('medie', '') }}" required>
+
+            <label>Profile:</label>
+            <input type="text" name="profil" value="{{ request.form.get('profil', '') }}" required>
+
+            <label>Specialization:</label>
+            <input type="text" name="specializare" value="{{ request.form.get('specializare', '') }}" required>
+
+            <label>City:</label>
+            <input type="text" name="city" value="{{ request.form.get('city', '') }}" required>
+
+            <button type="submit">Get Recommendation</button>
+        </form>
+    </div>
+</body>
+</html>

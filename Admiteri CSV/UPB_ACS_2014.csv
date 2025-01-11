@@ -1,0 +1,1007 @@
+Nr.,Nume,I.T.,Prenume,Optiuni,BAC,Proba  1,Proba  2,Medie  Probe,Medie  GEN
+1,MOCANU,L.T.,Alexandru,CTI  IS  CTI.X  IS.X,9.88,,olimpic,,
+2,POPA,V.,Ștefan-Adrian,CTI  IS,9.80,,olimpic,,
+3,CASAPOPOL,M.,Ana-Eliza,CTI  CTI.X  IS  IS.X,9.71,,olimpic,,
+4,NIȚU,P.,Ovidiu-Alexandru,CTI  IS  CTI.X  IS.X,9.68,,olimpic,,
+5,DRĂGAN,E.,Relu,CTI  IS  CTI.X  IS.X,9.63,,olimpic,,
+6,PIPIS,I.,Raul-Alex,CTI  IS,9.63,,olimpic,,
+7,RADU,M.C.,Ioana-Roxana,CTI  CTI.X  IS  IS.X,9.51,,olimpic,,
+8,VASILE,Gh.,Narcisa-Ana-Maria,CTI  IS  CTI.X  IS.X,9.23,,olimpic,,
+9,PRIPOAE,G.T.,Silvia-Elena,CTI,9.03,,olimpic,,
+10,PETRESCU,I.M.,Andrei-Mădălin,CTI  IS,8.15,,olimpic,,
+11,CREŢAN,C.,Miruna  -  Maria,CTI  CTI.X  IS  IS.X,10.00,10.00,10.00,10.00,10.00
+12,CATANĂ,Şt.,Marina-Mihaela,CTI  IS,9.86,10.00,10.00,10.00,9.97
+13,CEAPĂ,F.,Andrei-Florin,CTI  IS,9.83,10.00,10.00,10.00,9.96
+14,TOMA,I.,Theodor,CTI  IS  CTI.X  IS.X,9.83,10.00,10.00,10.00,9.96
+15,BRÎNZEA,Ș.,Răzvan-Ștefan,CTI  IS  CTI.X  IS.X,9.81,10.00,10.00,10.00,9.96
+16,DURBALĂ,M.,Cătălina,CTI  CTI.X  IS  IS.X,9.80,10.00,10.00,10.00,9.96
+17,SANDU,C.,Denisa,CTI  IS,9.80,10.00,10.00,10.00,9.96
+18,TĂNASE,I.,Mircea-Adrian,CTI  IS,9.80,10.00,10.00,10.00,9.96
+19,APOSTOAE,E.G.,Andrei-Alexandru,CTI  IS  CTI.X  IS.X,9.76,10.00,10.00,10.00,9.95
+20,VIȘAN,T.,Radu-Silviu,CTI  IS  CTI.X  IS.X,9.73,10.00,10.00,10.00,9.94
+21,NECŞOIU,P.,Constantina-Mădălina,CTI  IS,9.70,10.00,10.00,10.00,9.94
+22,OPREA,I.,Ionuț,CTI  IS  CTI.X  IS.X,9.70,10.00,10.00,10.00,9.94
+23,SULUGIU,E.,Andreea,CTI  IS  CTI.X  IS.X,9.68,10.00,10.00,10.00,9.93
+24,VOICU,M.M.,Robert-Andrei,CTI  IS,9.66,10.00,10.00,10.00,9.93
+25,CHIȚU,V.F.,Răzvan-Mihai,CTI  IS  CTI.X  IS.X,9.63,10.00,10.00,10.00,9.92
+26,GURIȚĂ,I.,Andreea,CTI  IS  CTI.X,9.63,10.00,10.00,10.00,9.92
+27,KESSLER,M.Al.,Diana-Maria,CTI  CTI.X  IS  IS.X,9.63,10.00,10.00,10.00,9.92
+28,PÎRTOACĂ,Gh.,George-Sebastian,CTI  IS  CTI.X  IS.X,9.63,10.00,10.00,10.00,9.92
+29,BORȚĂNOIU,Gh.A.,Nicoleta-Denisa,CTI  IS  CTI.X  IS.X,9.58,10.00,10.00,10.00,9.91
+30,CUSTURĂ,S.,Adrian-Mihai,CTI  IS  CTI.X  IS.X,9.56,10.00,10.00,10.00,9.91
+31,DOBRE,C.,Beniamin-Ionuț,CTI  CTI.X  IS  IS.X,9.48,10.00,10.00,10.00,9.89
+32,POPA,M.,Alin-Bogdan,CTI  CTI.X  IS  IS.X,9.48,10.00,10.00,10.00,9.89
+33,VULPE,I.V.,Răzvan-Nicolae,CTI  IS,9.48,10.0,10.0,10.0,9.89
+34,TĂBUȘCĂ,V.,Vlăduț-Constantin,CTI  IS  CTI.X  IS.X,9.46,10.0,10.0,10.0,9.89
+35,CATRINESCU,Al.,Alexandra-Irinuca,CTI  IS,9.45,10.0,10.0,10.0,9.89
+36,LAZĂR,I.,Lucian-Ionuț,CTI  IS,9.28,10.0,10.0,10.0,9.85
+37,PASCU,D.,Andrei,CTI  IS  CTI.X  IS.X,9.28,10.0,10.0,10.0,9.85
+38,GOIA,I.,Alexandru,CTI  CTI.X,9.2,10.0,10.0,10.0,9.84
+39,DINU,M.,Adrian,CTI  CTI.X  IS  IS.X,9.11,10.0,10.0,10.0,9.82
+40,DINU,C.V.,Alexandru,CTI  IS  CTI.X  IS.X,10.0,10.0,9.5,9.75,9.8
+41,MARDALE,V.C.,Andrei,CTI  CTI.X  IS,10.0,9.5,10.0,9.75,9.8
+42,STERPU,T.,Paul-Emilian,CTI  IS,9.95,9.5,10.0,9.75,9.79
+43,COSTINESCU,B.,Andrei,CTI  CTI.X  IS  IS.X,9.9,10.0,9.5,9.75,9.78
+44,DIACONU,L.,Cristian,CTI  CTI.X  IS  IS.X,9.9,10.0,9.5,9.75,9.78
+45,NEAȚU,I.,Darius-Florentin,CTI  IS  CTI.X,9.9,9.5,10.0,9.75,9.78
+46,GHILINŢĂ,N.,Constantin-Daniel,CTI  CTI.X  IS  IS.X,8.85,10.0,10.0,10.0,9.77
+47,OPREA,P.,Izabela-Alexandra,CTI  IS  CTI.X  IS.X,9.83,9.5,10.0,9.75,9.76
+48,BÎCÎILĂ,G.,Otilia-Teodora,CTI  CTI.X  IS  IS.X,9.8,9.5,10.0,9.75,9.76
+49,FOCȘĂNEANU,D.,Andrei-Ciprian,CTI  CTI.X  IS  IS.X,9.8,10.0,9.5,9.75,9.76
+50,TUDOSE,S.,Andrei,CTI  IS  CTI.X  IS.X,9.8,9.5,10.0,9.75,9.76
+51,ENE,D.,Bogdan-Adrian,CTI  IS  CTI.X  IS.X,8.75,10.0,10.0,10.0,9.75
+52,OLARU,A.S.,Cătălin,CTI  IS  CTI.X  IS.X,9.77,10.0,9.5,9.75,9.75
+53,DOMNIȘORU,S.,Roxana-Maria,CTI  CTI.X  IS  IS.X,9.75,9.5,10.0,9.75,9.75
+54,POPA,C.,Cristian,CTI  IS,9.73,9.5,10.0,9.75,9.74
+55,DOBRE,I.S.,Maria-Mihaela,CTI  IS  CTI.X  IS.X,9.7,10.0,9.5,9.75,9.74
+56,CORUȚ,M.,Fabrizio-Ionuț,CTI  CTI.X  IS  IS.X,9.66,10.0,9.5,9.75,9.73
+57,GHIMIȘ,C.,Constantin-Adrian,CTI  IS  CTI.X,9.66,9.5,10.0,9.75,9.73
+58,IONIȚĂ,M.,Remus-Florentin,CTI  CTI.X  IS  IS.X,9.61,10.0,9.5,9.75,9.72
+59,MOGOŞ,S.,Carina,CTI  CTI.X  IS  IS.X,9.6,9.5,10.0,9.75,9.72
+60,PANCU,I.V.,Andrei,CTI  IS  CTI.X  IS.X,9.6,10.0,9.5,9.75,9.72
+61,BELINGHER,G.,Grigore-Petruț,CTI  IS,9.56,10.0,9.5,9.75,9.71
+62,BEȘTEA,O.I.,Tudor-Valentin,CTI  CTI.X  IS  IS.X,9.56,9.5,10.0,9.75,9.71
+63,GHERGHINA,S.M.,Cristian-Cătălin,CTI  IS  CTI.X  IS.X,9.55,9.5,10.0,9.75,9.71
+64,GOGEA,A.,Mihail,CTI  IS  CTI.X  IS.X,9.55,9.5,10.0,9.75,9.71
+65,SAVA,I.G.,Iulia-Ana-Maria,CTI  CTI.X  IS  IS.X,9.55,10.0,9.5,9.75,9.71
+66,BICAN,I.,Andreea-Sânziana,CTI  IS  CTI.X  IS.X,9.53,9.5,10.0,9.75,9.7
+67,ALEXANDRU,G.,Andrei,CTI  IS  CTI.X  IS.X,9.48,9.5,10.0,9.75,9.69
+68,BELU,P.,Robert,CTI  CTI.X,9.45,10.0,9.5,9.75,9.69
+69,PANDELEA,G.,Alexandru-Ionuţ,CTI  CTI.X  IS  IS.X,9.45,10.0,9.5,9.75,9.69
+70,PANDELICĂ,C.,Adrian-Eduard,CTI  IS  CTI.X  IS.X,9.45,10.0,9.5,9.75,9.69
+71,TÎLCIU,N.,Laurențiu-Nicușor,CTI  IS  CTI.X  IS.X,9.45,9.5,10.0,9.75,9.69
+72,PERJU,C.,Lucian-Ionuț,CTI  IS  CTI.X  IS.X,9.43,10.0,9.5,9.75,9.68
+73,SANDU,C.,Cristian-Andrei,CTI  IS  CTI.X  IS.X,9.41,9.5,10.0,9.75,9.68
+74,BARONESCU,F.,Andrei-Robert,CTI  IS  CTI.X  IS.X,9.36,9.5,10.0,9.75,9.67
+75,STURZU,M.I.,Dragoș-Viorel,CTI  IS,9.36,9.5,10.0,9.75,9.67
+76,STOIANA-MOIȘ,C.,Vlad,CTI  IS  CTI.X  IS.X,9.35,10.0,9.5,9.75,9.67
+77,CORNECI,A.D.,Vlad-Mihai,CTI  IS  CTI.X  IS.X,9.33,10.0,9.5,9.75,9.66
+78,CIOCOIU,B.C.,Mircea-Cristian,CTI  IS  CTI.X  IS.X,9.3,9.5,10.0,9.75,9.66
+79,STOICA,V.,Mihai-Alexandru,CTI  IS  CTI.X  IS.X,8.25,10.0,10.0,10.0,9.65
+80,PLATON,L.,Mircea,CTI  IS,9.26,10.0,9.5,9.75,9.65
+81,DOGARU,M.,Constantin,CTI  IS  CTI.X  IS.X,9.23,10.0,9.5,9.75,9.64
+82,UNGUREANU,G.,Remus-Dan,CTI  IS  CTI.X  IS.X,9.23,9.5,10.0,9.75,9.64
+83,SARARIU,V.,Liviu-Dan,CTI  CTI.X  IS  IS.X,9.18,9.5,10.0,9.75,9.63
+84,OPREA,M.L.,Iulia-Andreea,CTI  CTI.X  IS  IS.X,9.16,9.5,10.0,9.75,9.63
+85,CARP,Gh.,Gianina-Mihaela,CTI  IS,9.13,10.0,9.5,9.75,9.62
+86,ACHIRIȚOAEI,M.,Alexandru-Adrian,CTI  CTI.X  IS  IS.X,10.0,9.5,9.5,9.5,9.6
+87,TROFIN,F.,Raluca-Ștefania,CTI  IS  CTI.X  IS.X,10.0,9.5,9.5,9.5,9.6
+88,ȚUȚUIANU,V.,Ana-Maria,CTI  IS  CTI.X  IS.X,10.0,9.0,10.0,9.5,9.6
+89,NAIDEN,T.D.,Liviu-Andretti,CTI  IS,9.96,9.5,9.5,9.5,9.59
+90,FARAFIN,M.,Nicolae-Adrian,CTI  IS  CTI.X  IS.X,8.93,10.0,9.5,9.75,9.58
+91,DORNEANU,R.C.,Anda-Alexandra,CTI  IS  CTI.X  IS.X,9.93,9.5,9.5,9.5,9.58
+92,TRIFU,F.,Georgiana-Cristiana,CTI  IS,9.93,9.5,9.5,9.5,9.58
+93,FRÎNCU,E.,Amalia-Mihaela,CTI  IS  CTI.X  IS.X,9.9,9.5,9.5,9.5,9.58
+94,SIMION- CONSTANTINESCU,F.,Andrei,CTI  CTI.X,9.9,9.5,9.5,9.5,9.58
+95,STOICAN,I.,Theodor,CTI  IS  CTI.X  IS.X,9.9,9.5,9.5,9.5,9.58
+96,LAZĂR- ANGELESCU,L.,Sergiu-Adrian,CTI  IS  CTI.X  IS.X,9.88,9.5,9.5,9.5,9.57
+97,PRUNARU,C.,Cosmin-Nicolae,CTI  IS,9.88,9.5,9.5,9.5,9.57
+98,STAN,E.,Cristiana-Ștefania,CTI  IS  CTI.X  IS.X,9.86,10.0,9.0,9.5,9.57
+99,VATAMANU,M.,Alexandra,CTI  IS  CTI.X  IS.X,9.86,9.5,9.5,9.5,9.57
+100,NICULICI,I.,Ionuţ-Cătălin,CTI  IS  CTI.X  IS.X,8.81,9.5,10.0,9.75,9.56
+101,ENE,F.,Daniela-Elena,CTI  IS  CTI.X  IS.X,9.83,9.5,9.5,9.5,9.56
+102,MOISĂ,D.,Roxana,CTI  IS  CTI.X  IS.X,9.83,9.5,9.5,9.5,9.56
+103,BÎRZAN,C.,Daniela,CTI  IS,9.8,9.0,10.0,9.5,9.56
+104,BURTAN,Al.G.,Iulia-Alexandra,CTI  IS  CTI.X  IS.X,9.8,9.5,9.5,9.5,9.56
+105,IRIMIA,M.,Alexandru-Gabriel,CTI  IS,9.8,9.0,10.0,9.5,9.56
+106,MUNTEAN,L.M.,Dan-Iulian,CTI  CTI.X  IS  IS.X,9.78,9.5,9.5,9.5,9.55
+107,ȘTEFĂNESCU,G.A.,Andrei,CTI  CTI.X  IS  IS.X,9.78,9.5,9.5,9.5,9.55
+108,COJOCARU,I.,Raphael-Florian,CTI  IS  CTI.X  IS.X,9.76,9.0,10.0,9.5,9.55
+109,DOCA,I.,Victor-Silviu,CTI  CTI.X  IS  IS.X,9.76,9.5,9.5,9.5,9.55
+110,PĂTULARU,I.,Ioana-Irina,CTI  IS,9.76,10.0,9.0,9.5,9.55
+111,DRĂGOI,M.C.,Ştefan,CTI  CTI.X  IS  IS.X,9.75,9.5,9.5,9.5,9.55
+112,ȚUCUNETE,Gh.,Mărioara-Alina,CTI  IS  CTI.X  IS.X,9.73,9.0,10.0,9.5,9.54
+113,PICIU,M.N.,Laurențiu-Gheorghe,CTI  IS,9.71,9.5,9.5,9.5,9.54
+114,ISPAS,D.,Denisa-Mihaela,CTI  IS  CTI.X  IS.X,9.7,9.0,10.0,9.5,9.54
+115,PETRIŞOR,M.,Andrei,CTI  IS  CTI.X,9.7,9.5,9.5,9.5,9.54
+116,PETCU,Gh.,Florentina,CTI  IS,9.68,9.0,10.0,9.5,9.53
+117,DINCĂ,N.,Alexandra-Cătălina,CTI  IS  CTI.X  IS.X,9.66,9.5,9.5,9.5,9.53
+118,POPA,F.,Crina-Elena,CTI  IS  CTI.X  IS.X,9.66,9.5,9.5,9.5,9.53
+119,TODEA,C.I.,Felician-Darius,CTI  IS  CTI.X  IS.X,9.66,9.5,9.5,9.5,9.53
+120,LUNGU,C.,Cosmin-Robert,CTI  IS  CTI.X  IS.X,9.65,9.5,9.5,9.5,9.53
+121,NICULA,F.,Iulia-Alexandra,CTI  CTI.X,9.63,9.5,9.5,9.5,9.52
+122,PARASCHIV,M.,Maria-Cristina,CTI  IS  CTI.X  IS.X,9.63,9.5,9.5,9.5,9.52
+123,CÎRȚÎNĂ,L.M.,Marius-Cristian,CTI  IS  CTI.X  IS.X,9.61,9.0,10.0,9.5,9.52
+124,IONIȚĂ,D.,Costel-Cosmin,CTI  IS,9.61,10.0,9.0,9.5,9.52
+125,STĂNCIULICĂ,I.,Marian,CTI  IS  CTI.X  IS.X,9.61,9.5,9.5,9.5,9.52
+126,IONESCU-TĂUTU,M.,Mihai-Andrei,CTI  CTI.X  IS  IS.X,9.58,9.5,9.5,9.5,9.51
+127,SIMION,M.Ș.,Andrei-Costin,CTI  IS  CTI.X  IS.X,9.58,9.5,9.5,9.5,9.51
+128,ALBU,F.,Alexandru,CTI  CTI.X  IS  IS.X,9.56,9.5,9.5,9.5,9.51
+129,TĂNASE,V.,Georgian,CTI  CTI.X  IS  IS.X,9.56,9.5,9.5,9.5,9.51
+130,ENE,N.,Vlad-Ștefan,CTI  IS  CTI.X  IS.X,9.55,10.0,9.0,9.5,9.51
+131,IONESCU,A.,Vlad,CTI  IS  CTI.X  IS.X,9.55,9.5,9.5,9.5,9.51
+132,MORARU-APOSTOL,D.,Bogdan-Andrei,CTI  IS  CTI.X  IS.X,9.55,9.5,9.5,9.5,9.51
+133,ŢULUŞ,M.,Andrei,CTI  IS,9.55,9.5,9.5,9.5,9.51
+134,CRIVIDENCO,O.,Andrei,CTI  IS  CTI.X  IS.X,9.51,9.5,9.5,9.5,9.5
+135,FILOTE,C.,Bogdan-Anthony,CTI  CTI.X  IS  IS.X,9.51,10.0,9.0,9.5,9.5
+136,MATEI,M.,Alexandru,CTI  IS  CTI.X  IS.X,9.51,9.5,9.5,9.5,9.5
+137,CHIȚU,S.,Maria  -  Cristina,CTI  IS  CTI.X  IS.X,9.5,9.0,10.0,9.5,9.5
+138,DIEACONU,F.,Andreea-Loredana,CTI  IS  CTI.X  IS.X,9.5,9.0,10.0,9.5,9.5
+139,ILINU,Gh.,Alexandru-Gheorghe,CTI  IS  CTI.X  IS.X,9.48,9.0,10.0,9.5,9.49
+140,VASILACHE,N.,Cosmin-Teodor,CTI  IS  CTI.X  IS.X,9.46,9.5,9.5,9.5,9.49
+141,VÎJĂEAC,L.,Cristian-Octavian,CTI  IS  CTI.X  IS.X,9.45,9.5,9.5,9.5,9.49
+142,AXENTE,C.C.,Matei-Sorin,CTI  IS,9.43,9.5,9.5,9.5,9.48
+143,MUSTAȚĂ,M.G.,Alexandru-Ionuț,CTI  IS  CTI.X  IS.X,9.43,9.5,9.5,9.5,9.48
+144,SAMOILESCU,C.,Robert-Florian,CTI  IS  CTI.X  IS.X,9.43,9.5,9.5,9.5,9.48
+145,BUDOIU,C.,Alin-Ștefan,CTI  CTI.X  IS  IS.X,8.38,9.5,10.0,9.75,9.47
+146,MIHALEA,O.,Andrei,CTI  IS,9.38,9.5,9.5,9.5,9.47
+147,RUSULEANU,C.,Octav,CTI  IS  CTI.X  IS.X,9.36,9.5,9.5,9.5,9.47
+148,SILAGHI,V.V.,Iustina-Astrid,CTI  IS  CTI.X  IS.X,9.36,10.0,9.0,9.5,9.47
+149,CHIRIȚĂ,I.,Ioan-Alexandru,CTI  IS,9.35,9.0,10.0,9.5,9.47
+150,ACIOBĂNIȚEI,N.,Andrei,CTI  IS  CTI.X  IS.X,9.33,9.5,9.5,9.5,9.46
+151,DINU,C.,Ioan,CTI  IS  CTI.X  IS.X,9.33,9.0,10.0,9.5,9.46
+152,MAVRODIN,M.,Constantin,CTI  IS  CTI.X  IS.X,9.33,9.5,9.5,9.5,9.46
+153,RADU,C.,Toma,CTI  IS  CTI.X,9.31,9.5,9.5,9.5,9.46
+154,SARAOLU,C.,Laurean-Constantin,CTI  IS,9.3,10.0,9.0,9.5,9.46
+155,FUSU,D.V.,Elian,CTI  IS  CTI.X  IS.X,9.28,9.0,10.0,9.5,9.45
+156,CHIRANA,V.,Daniel,CTI  IS,9.26,9.5,9.5,9.5,9.45
+157,CHIRIAC,E.,George-Octavian,CTI  IS  CTI.X  IS.X,9.25,9.0,10.0,9.5,9.45
+158,PANTEA,A.M.,Vlad-Ioan,CTI  IS  CTI.X  IS.X,9.25,9.5,9.5,9.5,9.45
+159,PANTELIMON,C.,Silviu-George,CTI  IS,9.25,9.5,9.5,9.5,9.45
+160,COJOCARU,D.,Radu-Daniel,CTI  IS  CTI.X  IS.X,9.21,9.5,9.5,9.5,9.44
+161,LUPAȘCU,A.,Cristian,CTI  IS  CTI.X  IS.X,9.18,10.0,9.0,9.5,9.43
+162,MIHART,M.,Ion-Cristian,CTI  IS  IS.X,9.15,9.5,9.5,9.5,9.43
+163,CORCIU,L.,Radu-Andrei,CTI  IS  CTI.X  IS.X,9.08,9.5,9.5,9.5,9.41
+164,RADU,I.,Robert-George,CTI  IS  CTI.X  IS.X,9.08,9.5,9.5,9.5,9.41
+165,COSTEA,G.,Ciprian-Marian,CTI  IS  CTI.X  IS.X,9.06,9.0,10.0,9.5,9.41
+166,DAN,H.C.,Adrian-Robert,CTI  IS,9.03,9.5,9.5,9.5,9.4
+167,FĂȘIE,V.,Vlad-George,CTI  CTI.X  IS  IS.X,9.03,9.5,9.5,9.5,9.4
+168,GURĂU,D.,Marius,CTI  IS,8.96,9.0,10.0,9.5,9.39
+169,ALEXANDRU,P.,Cosmina-Valentina,CTI  IS,8.95,9.5,9.5,9.5,9.39
+170,STURZU,C.,Roxana-Mădălina,CTI  IS  CTI.X,8.95,9.0,10.0,9.5,9.39
+171,TINCU,I.,Teodor,CTI  IS  CTI.X  IS.X,9.95,8.5,10.0,9.25,9.39
+172,POPESCU,D.M.,Teodor-Ciprian,CTI  IS  CTI.X  IS.X,8.9,9.5,9.5,9.5,9.38
+173,BĂLUȚOIU,V.,Maria-Anca,CTI  IS,9.9,9.0,9.5,9.25,9.38
+174,GHIUZAN,L.V.,Andrei,CTI  CTI.X  IS  IS.X,8.85,9.0,10.0,9.5,9.37
+175,MIHALEA,O.,Matei,CTI  IS,8.83,9.5,9.5,9.5,9.36
+176,DIMA,M.,Cristian-Mihai,CTI  IS  CTI.X  IS.X,8.81,10.0,9.0,9.5,9.36
+177,BUFTEA,C.,Constantin-Adrian,CTI  IS  CTI.X  IS.X,9.81,8.5,10.0,9.25,9.36
+178,HUZUM-COMĂNICI,S.N.,Laura,CTI  CTI.X  IS  IS.X,9.8,9.0,9.5,9.25,9.36
+179,VOICU,V.,Emilia-Georgiana,CTI  IS  CTI.X  IS.X,9.8,9.5,9.0,9.25,9.36
+180,PĂNĂTĂU,F.,Liana-Maria,CTI  IS  CTI.X  IS.X,9.78,9.0,9.5,9.25,9.35
+181,TĂNASE,F.C.,Cristina-Mihaela,CTI  IS,9.78,9.0,9.5,9.25,9.35
+182,GROAPĂ,Gh.,Mihai,CTI  IS  CTI.X  IS.X,9.76,8.5,10.0,9.25,9.35
+183,NEAMȚU,D.V.,Ioana,CTI  IS  CTI.X  IS.X,9.75,9.0,9.5,9.25,9.35
+184,ZAHARIA,D.,Alexandru,CTI  IS,9.75,8.5,10.0,9.25,9.35
+185,MIHALACHE,A.,Octavian-Nicolae,CTI  IS  CTI.X  IS.X,8.73,9.5,9.5,9.5,9.34
+186,STOCHIȚOIU,V.,Radu-Dumitru,CTI  IS,9.73,9.5,9.0,9.25,9.34
+187,BULGARU,I.,Mihaela,CTI  IS,9.71,9.5,9.0,9.25,9.34
+188,MUȘAT,F.,Andreea-Alexandra,CTI  IS  CTI.X  IS.X,9.7,9.5,9.0,9.25,9.34
+189,BĂDILĂ,I.,Gabriel-Alin,CTI  IS  CTI.X  IS.X,9.68,9.0,9.5,9.25,9.33
+190,MATEIZER,A.,Rareș-Andrei,CTI  IS,9.66,9.0,9.5,9.25,9.33
+191,OSMAN,L.C.V.,Maria-Ruxandra,CTI  IS  CTI.X  IS.X,9.66,9.5,9.0,9.25,9.33
+192,TIUTIU,M.,Maria-Lavinia,CTI  CTI.X  IS.X,9.66,9.0,9.5,9.25,9.33
+193,CODESCU,C.,Radu-Andrei,CTI  IS  CTI.X  IS.X,9.65,9.0,9.5,9.25,9.33
+194,MARINICĂ,N.,Elena-Georgiana,CTI  IS,9.65,9.0,9.5,9.25,9.33
+195,MARIN,V.,Raluca-Alina,CTI  IS  CTI.X  IS.X,8.63,9.5,9.5,9.5,9.32
+196,PELTEA,M.C.,Alberto  Marius,CTI  IS  CTI.X,9.63,10.0,8.5,9.25,9.32
+197,STAN,C.,Anca-Gabriela,CTI  IS,9.6,9.0,9.5,9.25,9.32
+198,CURCUDEL,D.,Ioan-Răzvan,CTI  IS  CTI.X  IS.X,9.58,9.5,9.0,9.25,9.31
+199,DRĂCEA,Gh.,Adrian,CTI  IS  CTI.X  IS.X,9.58,9.5,9.0,9.25,9.31
+200,DUMITRA,P.,Cristian-Constantin,CTI  IS  CTI.X  IS.X,9.58,9.0,9.5,9.25,9.31
+201,ISTRATE,N.,Neculai-Ovidiu,CTI  IS,9.58,10.0,8.5,9.25,9.31
+202,ZURZIC,D.,Zeljko,CTI  IS  CTI.X  IS.X,9.58,9.0,9.5,9.25,9.31
+203,IZOT,C.,Paul,CTI  IS,9.56,9.5,9.0,9.25,9.31
+204,RĂSCOL,C.,Iulia-Phoenix-Alice,CTI  IS  CTI.X  IS.X,9.56,9.0,9.5,9.25,9.31
+205,BUMBEA,H.,Ștefan-Alexandru,CTI  CTI.X  IS  IS.X,9.55,9.5,9.0,9.25,9.31
+206,SERESCU,C.,Roxana-Maria,CTI  IS  CTI.X  IS.X,9.55,9.0,9.5,9.25,9.31
+207,CHIRVASE,S.,Alexandru-Ioan,CTI  IS  IS.X  CTI.X,9.53,8.5,10.0,9.25,9.3
+208,BĂDICU,P.,George-Alexandru,CTI  IS  CTI.X  IS.X,9.51,8.5,10.0,9.25,9.3
+209,BERCARU,Gh.,Robert-Costin,CTI  CTI.X  IS  IS.X,9.51,9.0,9.5,9.25,9.3
+210,LUPAȘCU,N.,Andrei,CTI  CTI.X  IS  IS.X,9.51,10.0,8.5,9.25,9.3
+211,RÎŞNOVEANU,D.,Adrian,CTI  IS  CTI.X  IS.X,9.5,9.5,9.0,9.25,9.3
+212,VIȘAN,L.,Andrei,CTI  IS  CTI.X  IS.X,9.5,8.5,10.0,9.25,9.3
+213,MANOLACHE,I.,Cristian,CTI  IS,8.48,9.0,10.0,9.5,9.29
+214,SOARE,D.,Adelin-Valentin,CTI  CTI.X  IS  IS.X,8.48,9.5,9.5,9.5,9.29
+215,GHIDARCEA,M.,Anamaria,CTI  IS  CTI.X  IS.X,9.48,8.5,10.0,9.25,9.29
+216,ION,R.,Alina-Manuela,CTI  IS  CTI.X  IS.X,9.48,9.0,9.5,9.25,9.29
+217,CHIRILĂ,M.,Radu-Ionuț,CTI  IS  CTI.X  IS.X,9.46,9.5,9.0,9.25,9.29
+218,DRUMEA,I.,Diana-Andreea,CTI  IS  CTI.X  IS.X,9.46,9.0,9.5,9.25,9.29
+219,MADAR,S.,Alexandru,CTI  IS  CTI.X  IS.X,9.45,9.0,9.5,9.25,9.29
+220,SPORICI,B.,Dan-Cristian,CTI  IS  CTI.X  IS.X,9.45,9.5,9.0,9.25,9.29
+221,BĂLUNĂ,M.,Monica-Maria,CTI  CTI.X  IS  IS.X,9.43,8.5,10.0,9.25,9.28
+222,TONCU,G.,Ștefan,CTI  IS  CTI.X  IS.X,9.43,8.5,10.0,9.25,9.28
+223,BADEA,C.,Corneliu-Robert,CTI  IS,9.41,10.0,8.5,9.25,9.28
+224,OLTEANU,I.,Mădălin-Petruț,CTI  IS  CTI.X  IS.X,9.41,8.5,10.0,9.25,9.28
+225,VĂDUVA,C.,Mihăiţă-Bogdan,CTI  IS  CTI.X  IS.X,9.41,9.5,9.0,9.25,9.28
+226,DUMITRICĂ,G.,Ancuţa-Denisa,CTI  IS,9.4,9.0,9.5,9.25,9.28
+227,ANGHEL,G.,Florin,CTI  CTI.X  IS  IS.X,8.36,9.5,9.5,9.5,9.27
+228,CIUPERCĂ,D.,Cristian-Adrian,CTI  CTI.X  IS  IS.X,9.36,9.5,9.0,9.25,9.27
+229,CALOIAN,A.F.,George-Alexandru,CTI  IS  CTI.X  IS.X,9.35,8.5,10.0,9.25,9.27
+230,BOŢILĂ,E.,Andrei-Dumitru,CTI  IS  CTI.X  IS.X,8.33,9.5,9.5,9.5,9.26
+231,GEGEA,L.C.,Dragoș-Alexandru,CTI  CTI.X  IS  IS.X,9.33,9.0,9.5,9.25,9.26
+232,IRIMESCU,A.,Ionuț-Cătălin,CTI  CTI.X  IS  IS.X,9.33,9.0,9.5,9.25,9.26
+233,TĂNASE,D.M.,Robert,CTI  IS  CTI.X  IS.X,9.33,8.5,10.0,9.25,9.26
+234,CALOTĂ,M.,Florin,CTI  CTI.X  IS  IS.X,9.31,9.0,9.5,9.25,9.26
+235,CROITORU,D.,Andrei,CTI  IS  CTI.X  IS.X,9.31,9.5,9.0,9.25,9.26
+236,BĂLĂLĂU,M.G.,Mihai,CTI  CTI.X  IS  IS.X,9.3,9.5,9.0,9.25,9.26
+237,IONESCU,M.,Cristina,CTI  IS  CTI.X  IS.X,9.3,8.5,10.0,9.25,9.26
+238,MANTU,F.,Radu-Alexandru,CTI  CTI.X  IS  IS.X,9.3,9.0,9.5,9.25,9.26
+239,PANAITE,T.,Adrian,CTI  IS,8.26,9.5,9.5,9.5,9.25
+240,NEMŢUC,C.,Dumitru,CTI  IS,9.28,9.0,9.5,9.25,9.25
+241,VLĂDESCU,I.,Andrei,CTI  CTI.X  IS  IS.X,9.28,9.0,9.5,9.25,9.25
+242,MUNTEANU,D.,Filip,CTI  IS  CTI.X  IS.X,9.26,8.5,10.0,9.25,9.25
+243,NĂSTASE,Ș.,Adrian,CTI  IS,9.26,9.5,9.0,9.25,9.25
+244,POPESCU,V.,Alexandru-Cristian,CTI  IS  CTI.X,9.26,9.0,9.5,9.25,9.25
+245,RAICEA,L.G.,Flavius-Marian,CTI  IS  CTI.X  IS.X,9.26,9.0,9.5,9.25,9.25
+246,MATEI,E.,Nistor-Ionuț,CTI  IS,9.25,9.0,9.5,9.25,9.25
+247,POPA,A.,Mircea-Marian,CTI  CTI.X  IS  IS.X,9.25,9.5,9.0,9.25,9.25
+248,VÎNĂTORU,I.,Andrei-Ioan,CTI  CTI.X  IS  IS.X,9.25,9.0,9.5,9.25,9.25
+249,BEBOEANU,F.,Mihaela-Elena,CTI  IS,9.21,9.0,9.5,9.25,9.24
+250,MITROI,D.F.,Mădălina,CTI  IS,9.2,9.0,9.5,9.25,9.24
+251,CREȚU,C.,George-Alexandru,CTI  IS  CTI.X  IS.X,9.18,9.0,9.5,9.25,9.23
+252,DAVID,I.,Adelina-Georgiana,CTI  IS,9.18,9.5,9.0,9.25,9.23
+253,BACHEȘ,A.C.,Andrei,CTI  IS  CTI.X  IS.X,9.16,9.5,9.0,9.25,9.23
+254,VASILE,I.,Ionuț-Adrian,CTI  IS,9.15,9.0,9.5,9.25,9.23
+255,VISALOM,A.,Rareş-Mihail,CTI  CTI.X  IS  IS.X,9.15,9.0,9.5,9.25,9.23
+256,GUȚUȚUI,D.,Dan-Vlad,CTI  IS  CTI.X  IS.X,9.13,8.5,10.0,9.25,9.22
+257,BURLACU,C.,George-Darius,CTI  IS,9.11,9.5,9.0,9.25,9.22
+258,LUNGEANU,S.,Alexandru-Mihai,CTI  IS  CTI.X  IS.X,9.11,9.5,9.0,9.25,9.22
+259,PÂRCIOAGĂ,Ș.,Cătălin-Ionuț,CTI  IS  CTI.X  IS.X,9.11,9.0,9.5,9.25,9.22
+260,OLTEANU,C.,Robert,CTI  IS,9.08,9.0,9.5,9.25,9.21
+261,VASILE,M.,Claudiu-Daniel,CTI  IS  CTI.X  IS.X,9.08,9.0,9.5,9.25,9.21
+262,VOICESCU,I.V.,Sorin-Gabriel,CTI  IS  CTI.X  IS.X,9.08,9.0,9.5,9.25,9.21
+263,GEORGESCU,M.,Mihail-Bogdan,CTI  IS,9.05,9.0,9.5,9.25,9.21
+264,CIOBOTARU,C.,Florin-Andrei,CTI  IS  CTI.X  IS.X,9.03,8.5,10.0,9.25,9.2
+265,FRĂSINEANU,F.A.,Cristian-Adrian,CTI  CTI.X,9.01,9.5,9.0,9.25,9.2
+266,MĂGÎRDICEAN,R.,Răzvan-Ionuț,CTI,9.01,9.5,9.0,9.25,9.2
+267,OLOGU,S.,Alexandru,CTI  IS  CTI.X  IS.X,9.01,9.5,9.0,9.25,9.2
+268,PÎNTEA,N.,Fabian-Emanuel,CTI  IS,9.01,9.5,9.0,9.25,9.2
+269,MACARIE,D.,Roxana-Georgiana,CTI  IS,9.0,8.5,10.0,9.25,9.2
+270,STANCU,E.,Andrei,CTI  IS  CTI.X  IS.X,9.0,9.0,9.5,9.25,9.2
+271,DOGARU,F.,Cristian-Gabriel,CTI  IS  CTI.X  IS.X,8.96,9.5,9.0,9.25,9.19
+272,CONSTANTIN,D.I.,Sorin,CTI  IS,8.95,9.0,9.5,9.25,9.19
+273,NICULAE,D.,Ioan-Paul,CTI  IS  CTI.X  IS.X,8.95,10.0,8.5,9.25,9.19
+274,POPA,A.M.,Răzvan,CTI  IS  CTI.X  IS.X,9.95,8.5,9.5,9.0,9.19
+275,CORIIU,S.,Iustinian-David,CTI  IS  CTI.X  IS.X,8.91,9.5,9.0,9.25,9.18
+276,GAVRILĂ,S.,Sorin-Bogdan,CTI  IS,8.91,9.0,9.5,9.25,9.18
+1,ȘOLOT,Gh.,Alexandru-Mihai,IS  CTI,9.9,olimpic,,,
+2,CÂJU,D.,Mihai-Drosi,IS  CTI,9.03,olimpic,,,
+3,TUDOR,I.,Geanina-Monica,IS  IS.X  CTI  CTI.X,9.45,10.0,10.0,10.0,9.89
+4,DOBRE,S.,Florin-Dragoș,IS  CTI,9.23,10.0,10.0,10.0,9.84
+5,PETRE,V.B.,Alexandru,IS  CTI,9.86,9.5,10.0,9.75,9.77
+6,DAOUD-MORARU,E.,Anthonius,IS  CTI,9.36,10.0,9.5,9.75,9.67
+7,ILIE,C.,Vlad-Iulian,IS  CTI  IS.X  CTI.X,9.73,9.5,9.5,9.5,9.54
+8,GHIȚEANU,L.,Mirela-Cornelia,IS  IS.X  CTI  CTI.X,9.6,9.0,10.0,9.5,9.52
+9,POPESCU,L.,Andrei-Vlad,IS  CTI  IS.X  CTI.X,9.41,9.5,9.5,9.5,9.48
+10,COSMA,D.,Ioan-Adrian,IS  CTI  IS.X  CTI.X,9.38,9.0,10.0,9.5,9.47
+11,DUDĂ,G.,Sergiu,IS  CTI  IS.X  CTI.X,9.2,9.5,9.5,9.5,9.44
+12,VIȘAN,D.,Dan-Constantin-Claudiu,IS  IS.X  CTI  CTI.X,10.0,9.0,9.5,9.25,9.40
+13,POPESCU,O.G.,Ionuț-Cristian,IS  CTI  IS.X  CTI.X,8.93,9.5,9.5,9.5,9.38
+14,TEODOR,G.,Ioana,IS  CTI,9.78,9.0,9.5,9.25,9.35
+15,MANOLACHE,V.,Alin-Ionuț,IS  CTI  IS.X  CTI.X,9.71,9.0,9.5,9.25,9.34
+16,DAN,L.,Alexandru-Bogdan,IS  CTI  IS.X  CTI.X,8.65,9.5,9.5,9.5,9.33
+17,IVAN,P.,Roxana-Iuliana,IS,8.65,9.0,10.0,9.5,9.33
+18,FLOREA,C.,Nadina,IS  CTI  IS.X  CTI.X,9.63,9.0,9.5,9.25,9.32
+19,ZICA,N.,Cristian-Enache,IS  IS.X  CTI  CTI.X,9.61,9.0,9.5,9.25,9.32
+20,SANDU,F.,Adrian-Daniel,IS  CTI,9.53,9.5,9.0,9.25,9.30
+21,TACHE,C.,Alexandru-Marius,IS,9.46,9.0,9.5,9.25,9.29
+22,TUDOR,Al.,Cristian-Alexandru,IS  CTI  IS.X  CTI.X,9.4,9.0,9.5,9.25,9.28
+23,SIMION,Gh.C.,Ioana-Andreea,IS  IS.X,9.38,9.0,9.5,9.25,9.27
+24,ENACHE,F.,Marian-Laurențiu,IS  CTI  IS.X  CTI.X,9.35,9.0,9.5,9.25,9.27
+25,DAMIAN,N.,Nicolae-Alexandru,IS  IS.X  CTI  CTI.X,8.28,9.0,10.0,9.5,9.25
+26,PIOARĂ,C.,Cosmin,IS  CTI  IS.X  CTI.X,9.23,9.5,9.0,9.25,9.24
+27,IONESCU,M.,Daniel-Andrei,IS  CTI,9.16,9.5,9.0,9.25,9.23
+28,NEDELCU,I.,Andreea-Georgiana,IS,9.16,10.0,8.5,9.25,9.23
+29,CERNICA,M.,Paul-Ovidiu,IS  CTI  IS.X  CTI.X,9.1,8.5,10.0,9.25,9.22
+30,COMĂNESCU,Gh.,Andrei-Daniel,IS  IS.X  CTI  CTI.X,9.0,9.5,9.0,9.25,9.20
+31,JULA,O.C.,Călin-Alexandru-Liviu,IS  IS.X  CTI  CTI.X,8.95,9.0,9.5,9.25,9.19
+32,MITROIU,S.,Adrian-Mădălin,CTI  IS,8.9,9.0,9.5,9.25,9.18
+33,MUNTEANU,V.,Marius-Sorin,CTI  IS  CTI.X  IS.X,8.9,9.5,9.0,9.25,9.18
+34,TĂNASE,C.,Teodor-Radu,CTI  IS  CTI.X  IS.X,8.88,9.0,9.5,9.25,9.17
+35,JITEA,M.,Ştefan-Cătălin,CTI  IS,8.86,9.5,9.0,9.25,9.17
+36,OANCEA,I.,Maria-Isabela,CTI  IS  CTI.X  IS.X,8.86,9.0,9.5,9.25,9.17
+37,OARNĂ,D.B.,Alexandru,CTI  IS,9.86,8.5,9.5,9.0,9.17
+38,PETRESCU,M.,Alina-Gabriela,CTI  IS  CTI.X  IS.X,8.83,9.0,9.5,9.25,9.16
+39,SPIRU,V.,Vasile-Cristian,CTI  IS  CTI.X  IS.X,8.81,9.5,9.0,9.25,9.16
+40,STANCU,Gh.G.,George-Alexandru,IS  CTI,8.8,9.0,9.5,9.25,9.16
+41,MARIN,E.M.,Gabriel-Marian,CTI  IS  CTI.X  IS.X,9.81,8.5,9.5,9.0,9.16
+42,MELERU,F.,Bogdan-Mihai,CTI  IS  CTI.X  IS.X,9.81,9.0,9.0,9.0,9.16
+43,GRAMENI,Gh.,Stere-Alexandru,CTI  IS  CTI.X  IS.X,8.78,8.5,10.0,9.25,9.15
+44,MAREȘ,C.,Cristian-Ionuț,CTI  IS  CTI.X  IS.X,8.78,8.5,10.0,9.25,9.15
+45,STANCA,M.,Robert-Gabriel,CTI  IS  CTI.X,8.76,9.0,9.5,9.25,9.15
+46,IUGA,G.V.,Andrei,CTI  IS,8.75,9.5,9.0,9.25,9.15
+47,ȘOANCĂ,V.,Cristian-Adrian,CTI  IS  CTI.X  IS.X,8.75,8.5,10.0,9.25,9.15
+48,STAN,Gh.M.,Gabriel,CTI  IS  CTI.X  IS.X,9.78,9.0,9.0,9.0,9.15
+49,COTUNĂ,D.,Claudiu-Adrian,IS  CTI,8.71,9.5,9.0,9.25,9.14
+50,NASTASIU,C.,Ciprian-Marius,CTI  IS  CTI.X  IS.X,8.71,9.5,9.0,9.25,9.14
+51,COLBU,N.,Ștefania-Cristiana,IS  CTI  CTI.X  IS.X,9.73,8.5,9.5,9.0,9.14
+52,CARTEȘ,S.,Mădălina-Ioana,CTI  IS,9.7,9.0,9.0,9.0,9.14
+53,POPESCU,I.,Ioana,CTI  IS  CTI.X  IS.X,9.7,9.0,9.0,9.0,9.14
+54,CĂLIN,I.,Theodor-Cristian,CTI  IS  CTI.X  IS.X,7.68,9.5,9.5,9.5,9.13
+55,PĂTRAŞCU,C.,Marius-Florin,CTI  IS  CTI.X  IS.X,8.66,9.0,9.5,9.25,9.13
+56,MARINESCU,M.,David,CTI  IS,8.65,9.0,9.5,9.25,9.13
+57,STOIAN,I.,Mihaela-Cătălina,CTI  IS,9.68,9.0,9.0,9.0,9.13
+58,ANTOHE,A.,Sabin,CTI  IS,8.6,9.0,9.5,9.25,9.12
+59,GORAN,V.,Teodora-Maria,CTI  IS,9.63,8.5,9.5,9.0,9.12
+60,ȘPAN,O.,Andrei,IS  CTI  IS.X  CTI.X,9.61,8.5,9.5,9.0,9.12
+61,RĂDUCU,M.,Maria-Ramona,CTI  IS  CTI.X  IS.X,9.6,9.0,9.0,9.0,9.12
+62,MOMETE,T.C.,Mihai-Călin,IS  CTI  IS.X  CTI.X,8.58,9.0,9.5,9.25,9.11
+63,COJAN,G.N.,Eugen-Nicolae,CTI  IS  CTI.X  IS.X,8.56,9.0,9.5,9.25,9.11
+64,SIMA,I.,Anne-Marie-Carla,CTI  IS  CTI.X  IS.X,8.56,9.0,9.5,9.25,9.11
+65,NICOLESCU,C.,George-Daniel,IS  CTI  IS.X  CTI.X,9.58,8.5,9.5,9.0,9.11
+66,CHICHIRĂU,E.,Vlad-Vasile,CTI  IS  CTI.X  IS.X,9.56,9.5,8.5,9.0,9.11
+67,CRISTIAN,G.,George,CTI  IS,9.56,9.0,9.0,9.0,9.11
+68,DIODIU,I.L.,Adrian-Lucian,IS  CTI,8.51,9.0,9.5,9.25,9.1
+69,PIFTOR,T.,Andy-Eduard,CTI  IS  CTI.X  IS.X,8.5,9.0,9.5,9.25,9.1
+70,ROMAN,O.,Raluca-Petruța,IS  IS.X,8.5,8.5,10.0,9.25,9.1
+71,ILIE,I.,Andra-Teodora,CTI  IS  CTI.X  IS.X,9.53,8.5,9.5,9.0,9.1
+72,IOSIF,Gh.,Cosmin-Ionuț,IS,9.53,8.5,9.5,9.0,9.1
+73,VOINEAG,F.,Cristina,CTI  IS  CTI.X,9.53,8.5,9.5,9.0,9.1
+74,GIURCĂU,A.,Iulia-Adelina,CTI  IS  CTI.X  IS.X,9.51,9.0,9.0,9.0,9.1
+75,MARCU,Gh.C.,Denis-George,CTI  IS  CTI.X  IS.X,9.51,10.0,8.0,9.0,9.1
+76,MOISĂ,P.,Anca-Elena,CTI  IS  CTI.X  IS.X,9.51,8.5,9.5,9.0,9.1
+77,OPRIȘAN,D.M.,Anca-Cristina,CTI  IS  CTI.X  IS.X,9.51,9.5,8.5,9.0,9.1
+78,RĂVAȘ,I.,Ionela-Cosmina,CTI  IS,9.51,8.5,9.5,9.0,9.1
+79,MUNTEANU,E.,Mihai,IS  CTI,9.5,8.5,9.5,9.0,9.1
+80,DACU,D.,Teodor-Daniel,CTI  IS  CTI.X  IS.X,8.48,8.5,10.0,9.25,9.09
+81,NIȚĂ,V.,Dragoș-Andrei,CTI  IS  CTI.X  IS.X,9.48,8.5,9.5,9.0,9.09
+82,DRAGOMIR,Gh.,Constantin-Daniel,IS  IS.X,9.46,9.0,9.0,9.0,9.09
+83,DRĂGUȚ,A.,Robert-Florin,CTI  IS  CTI.X  IS.X,9.46,9.0,9.0,9.0,9.09
+84,NICA,Gh.,Ștefania-Florentina,CTI  IS  CTI.X  IS.X,9.46,9.0,9.0,9.0,9.09
+85,SECERE,M.,Mihai,CTI  IS  CTI.X  IS.X,9.46,9.0,9.0,9.0,9.09
+86,MUTULIGĂ,A.,Bogdan,CTI  IS,9.45,8.5,9.5,9.0,9.09
+87,DIMOIU,C.,Mihai-Lorin,CTI  IS  CTI.X  IS.X,8.41,9.0,9.5,9.25,9.08
+88,BARI,T.,Evghin,CTI  IS  CTI.X  IS.X,9.43,9.0,9.0,9.0,9.08
+89,BĂNCILĂ,I.I.,Daniel-Marian,CTI  IS  CTI.X  IS.X,9.43,8.5,9.5,9.0,9.08
+90,CANCEL,F.,Sebastian,CTI  IS  CTI.X  IS.X,9.43,9.0,9.0,9.0,9.08
+91,DIACONU,M.,Marilena-Aurelia,CTI  IS  CTI.X  IS.X,9.41,9.0,9.0,9.0,9.08
+92,GĂUJĂNEANU,F.,Andrei-Vlăduț,CTI  IS  CTI.X  IS.X,9.41,9.5,8.5,9.0,9.08
+93,PELIN,M.,Vlad,CTI  IS  CTI.X  IS.X,9.41,8.0,10.0,9.0,9.08
+94,TUDOROIU,C.,Octavian-Daniel,IS  CTI  IS.X  CTI.X,9.41,9.5,8.5,9.0,9.08
+95,VELICU,I.,Ion,CTI  IS,9.41,8.5,9.5,9.0,9.08
+96,ANGHEL,Ș.,Bogdan-Ștefăniță,IS  CTI  CTI.X  IS.X,9.4,9.5,8.5,9.0,9.08
+97,BARBU,F.I.,Florina-Elena,IS  IS.X,9.4,9.0,9.0,9.0,9.08
+98,DIMITRIU,D.,Diana,CTI  IS  CTI.X  IS.X,9.4,9.0,9.0,9.0,9.08
+99,IOSIF,I.,Daniela-Elena,IS  CTI  IS.X  CTI.X,9.4,9.0,9.0,9.0,9.08
+100,PUIU,C.,Petru-Alexandru,CTI  IS,9.4,9.0,9.0,9.0,9.08
+101,STOLERIU,V.,Andrei-Francesco,IS  IS.X  CTI,8.38,9.5,9.0,9.25,9.07
+102,VELIMAN,I.,Adrian,CTI  IS  CTI.X  IS.X,9.38,8.5,9.5,9.0,9.07
+103,TĂNĂSESCU,I.,Andrei,CTI  IS  CTI.X  IS.X,9.36,9.0,9.0,9.0,9.07
+104,HURDUBAE,G.,Alexandra,CTI  IS  CTI.X  IS.X,9.35,9.0,9.0,9.0,9.07
+105,MARTIN,Gh.,Laura-Cristina,CTI  IS  CTI.X  IS.X,9.35,8.5,9.5,9.0,9.07
+106,NĂSTASE,V.,Florin,CTI  IS  CTI.X  IS.X,9.35,9.5,8.5,9.0,9.07
+107,SIMION,V.,Florin,CTI  IS,9.35,8.5,9.5,9.0,9.07
+108,CRISTINESCU,C.,Liviu-Emanuel,IS  CTI  IS.X  CTI.X,8.33,8.5,10.0,9.25,9.06
+109,ȘERBAN,C.C.,Alexandra,IS  CTI  IS.X  CTI.X,8.3,9.0,9.5,9.25,9.06
+110,STAHIE,V.,Alexandru,CTI  IS,9.31,9.0,9.0,9.0,9.06
+111,ICHIMUȚĂ,N.,Nicoleta,CTI  IS  CTI.X  IS.X,9.3,9.0,9.0,9.0,9.06
+112,ILIE,V.,Cristina-Marilena,CTI  IS,9.3,8.5,9.5,9.0,9.06
+113,FĂGET,L.Ș.,Andrei-Ronald,CTI  IS  CTI.X  IS.X,8.25,9.0,9.5,9.25,9.05
+114,CAZAN,D.A.L.,Cristian-Claudiu,CTI  IS,9.26,9.0,9.0,9.0,9.05
+115,PLEȘA,D.,Claudiu-Nicolae,IS  CTI,9.25,9.0,9.0,9.0,9.05
+116,SAIZU,C.,Andrei,CTI  IS,9.25,9.0,9.0,9.0,9.05
+117,STOIAN,Gh.,Paul,CTI  IS,9.23,9.0,9.0,9.0,9.04
+118,IONESCU,D.,Elena-Florentina,CTI  IS  CTI.X  IS.X,9.21,9.0,9.0,9.0,9.04
+119,ANDORA,M.,Alexandra,IS  CTI  IS.X  CTI.X,9.2,8.5,9.5,9.0,9.04
+120,BRANDABUR,S.,Claudiu-Ionuț,IS  IS.X,9.2,9.0,9.0,9.0,9.04
+121,COCEA,F.,Diana-Cristina,CTI  IS  CTI.X  IS.X,9.2,8.5,9.5,9.0,9.04
+122,STEJAR,C.,Nicolai,IS  CTI  IS.X  CTI.X,9.2,9.5,8.5,9.0,9.04
+123,BĂSCEANU,S.M.,Radu-Mihai,CTI  IS  CTI.X  IS.X,9.18,9.0,9.0,9.0,9.03
+124,IVAN,G.,Victor-Andrei,IS  IS.X  CTI  CTI.X,9.16,9.0,9.0,9.0,9.03
+125,COTIGĂ,N.,Cristian-Valentin,CTI  IS  CTI.X  IS.X,9.15,9.0,9.0,9.0,9.03
+126,MIRESCU,C.L.,Răducu-Alexandru,IS  CTI  IS.X  CTI.X,9.15,9.0,9.0,9.0,9.03
+127,ȘTEFĂNESCU,V.,Alexandru,CTI  IS  CTI.X  IS.X,9.15,9.0,9.0,9.0,9.03
+128,DUMITRU,I.,Marian-Cosmin,CTI  IS,9.13,8.5,9.5,9.0,9.02
+129,MINA,I.,Mihai-Zicu,CTI  IS  CTI.X  IS.X,9.13,9.5,8.5,9.0,9.02
+130,ŢÎNŢĂREANU,I.,George-Cătălin,CTI  IS  CTI.X  IS.X,9.13,9.0,9.0,9.0,9.02
+131,MARIN,V.,Alexandru,IS  IS.X  CTI  CTI.X,9.11,9.5,8.5,9.0,9.02
+132,RĂDULESCU,Gh.,Marian-Antonio,CTI  IS  CTI.X  IS.X,9.11,9.0,9.0,9.0,9.02
+133,RĂDULESCU,I.M.,Bogdan-Ionuț,CTI  IS  CTI.X  IS.X,9.11,9.0,9.0,9.0,9.02
+134,SANDU,A.,Bogdan-George,CTI  IS  CTI.X  IS.X,9.11,9.5,8.5,9.0,9.02
+135,ȘOȘU,V.S.,Marius-Daniel,CTI  IS  CTI.X  IS.X,9.11,8.5,9.5,9.0,9.02
+136,BUTURĂ,R.,Ștefan,CTI  IS  CTI.X  IS.X,9.1,9.0,9.0,9.0,9.02
+137,CONSTANTINI,V.A.,Sorin-George,CTI  IS  IS.X,9.1,8.5,9.5,9.0,9.02
+138,PAVELESCU,V.,Ionuț-Adrian,CTI  IS,8.08,9.0,9.5,9.25,9.01
+139,GRAMA,Gh.,Alexandru-Cristian,CTI  IS  CTI.X  IS.X,9.08,9.5,8.5,9.0,9.01
+140,LEON,G.,Iulian,CTI  IS  CTI.X  IS.X,9.08,9.0,9.0,9.0,9.01
+141,MACOVEI,I.,Marius-Ionuț,CTI  IS  IS.X,9.08,8.5,9.5,9.0,9.01
+142,IRIMIA,Gh.,Alexandru-Georgian,IS  CTI  IS.X  CTI.X,9.05,9.0,9.0,9.0,9.01
+143,MARICA,C.D.,Bogdan-Marius,CTI  IS  CTI.X  IS.X,9.05,8.5,9.5,9.0,9.01
+144,GRIGORESCU,Şt.,Ioan-Cezar,CTI  IS  CTI.X  IS.X,9.03,9.0,9.0,9.0,9.0
+145,NICOLAE,A.,Mihai-Bogdan,CTI  IS  CTI.X  IS.X,9.03,8.5,9.5,9.0,9.0
+146,ARDELEANU,S.C.,Andrei-Alexandru,CTI  IS  CTI.X  IS.X,9.01,9.0,9.0,9.0,9.0
+147,POȘIRCĂ,I.,Nicolae-Cosmin,CTI  IS,9.0,8.5,9.5,9.0,9.0
+148,ROȘCA,N.O.,Bogdan-Mihail,CTI  IS  CTI.X  IS.X,8.98,9.0,9.0,9.0,8.99
+149,ȚUHAȘU,A.C.,Ana  Maria-Iuliana,IS  IS.X,8.98,9.0,9.0,9.0,8.99
+150,BLAGA,M.,Mihai-Emilian,CTI  IS,8.96,8.5,9.5,9.0,8.99
+151,DAVIDESCU,R.,Ana-Maria,CTI  IS  CTI.X  IS.X,8.96,8.5,9.5,9.0,8.99
+152,JINGA,D.,Ioan-Radu,CTI  IS  CTI.X  IS.X,8.96,9.5,8.5,9.0,8.99
+153,STOENETE,I.,Constantin-Mădălin,CTI  IS  CTI.X  IS.X,8.95,8.5,9.5,9.0,8.99
+154,SAVU,N.A.,Sever-Alexandru,CTI  IS  CTI.X  IS.X,6.91,10.0,9.0,9.5,8.98
+155,BANCIU,I.,Bogdana,CTI  IS  CTI.X  IS.X,8.93,8.5,9.5,9.0,8.98
+156,VLĂSCEANU,V.,Victor-Mihai,IS  CTI  IS.X  CTI.X,8.93,9.0,9.0,9.0,8.98
+157,ZÂRNEA,M.,Vlăduț-Emilian,CTI  IS  CTI.X  IS.X,8.91,9.0,9.0,9.0,8.98
+158,BĂLAN,F.,Alexandru-Mihai,CTI  IS  CTI.X  IS.X,8.9,9.0,9.0,9.0,8.98
+159,CONSTANTIN,M.,Mădălina-Rosana,CTI  IS  CTI.X  IS.X,9.93,8.5,9.0,8.75,8.98
+160,DUMITRU,V.,Isabela  -  Bianca,IS  CTI  IS.X  CTI.X,9.9,8.5,9.0,8.75,8.98
+161,MICU,A.,Vlad,CTI  IS  CTI.X  IS.X,8.85,9.5,8.5,9.0,8.97
+162,MIHALACHE,F.,Magdalena-Andreea,CTI  IS  CTI.X  IS.X,9.88,9.0,8.5,8.75,8.97
+163,BUZEA,A.,Constantin  -  Valentin,CTI  IS  CTI.X  IS.X,9.86,8.5,9.0,8.75,8.97
+164,BARNA,Şt.C.O .,Cătălin,CTI  IS  CTI.X  IS.X,8.83,9.0,9.0,9.0,8.96
+165,PIOARCĂ,Gh.,Denis-Georgian,CTI  IS  CTI.X  IS.X,8.83,9.0,9.0,9.0,8.96
+166,CRĂCĂNEL,M.,George-Eleodor,CTI  IS  CTI.X  IS.X,8.8,9.5,8.5,9.0,8.96
+167,MOȚPAN,C.,Mihai-Eusebie,CTI  IS  CTI.X  IS.X,8.8,9.0,9.0,9.0,8.96
+168,IANCULESCU,C.,Sofronie,CTI  IS,9.8,8.5,9.0,8.75,8.96
+169,BOLAN,S.,Ciprian,CTI  IS  CTI.X  IS.X,8.78,8.5,9.5,9.0,8.95
+170,COSTIANU,C.,Florentin-Răzvan,CTI  IS  CTI.X  IS.X,8.78,9.5,8.5,9.0,8.95
+171,ȘERBAN,I.M.,Marius-Daniel,CTI  IS  CTI.X  IS.X,8.78,8.5,9.5,9.0,8.95
+172,MIHALACHE,C.F.,Constantin,CTI  IS  CTI.X  IS.X,9.76,8.5,9.0,8.75,8.95
+173,TURCU,Al.,Cristian,CTI  IS,8.73,9.0,9.0,9.0,8.94
+174,SIMION,M.,Lucian-Ionuț,CTI  IS  CTI.X,8.71,8.5,9.5,9.0,8.94
+175,SIMION,T.E.,Teodora-Petruța,IS  IS.X,8.7,9.5,8.5,9.0,8.94
+176,LICȘOR,A.D.,Adina,CTI  IS  CTI.X  IS.X,9.73,9.0,8.5,8.75,8.94
+177,DESPOTOVICI,N.,Mihai,CTI  IS  CTI.X  IS.X,9.71,8.5,9.0,8.75,8.94
+178,NEAȚĂ,I.,Andreea-Theodora,CTI  IS  CTI.X  IS.X,9.7,9.0,8.5,8.75,8.94
+179,SCHULLER- CARAGEA,R.,Gabriel,CTI  IS,9.7,9.0,8.5,8.75,8.94
+180,ȚÎNCU,S.,Alin-Iulian,CTI  IS  CTI.X  IS.X,9.7,9.0,8.5,8.75,8.94
+181,DUMITRESCU,S.N.,Alexandru,CTI  IS  CTI.X  IS.X,8.68,9.0,9.0,9.0,8.93
+182,MĂRCULESCU,M.B.,Paul-Bruno,CTI  IS  CTI.X  IS.X,8.68,9.5,8.5,9.0,8.93
+183,LĂPTUCĂ,Gh.,Adina-Georgiana,CTI  IS,9.66,9.0,8.5,8.75,8.93
+184,OPRINOIU,M.,Gabriel,CTI  IS  CTI.X  IS.X,9.65,9.0,8.5,8.75,8.93
+185,POPESCU,N.,Alexandru,CTI  IS  CTI.X  IS.X,8.63,9.0,9.0,9.0,8.92
+186,BĂCĂNAȘU,I.A.,Mihai-Eugen,CTI  IS,8.6,9.5,8.5,9.0,8.92
+187,VASILE,M.E.,Mihai-Tiberiu,CTI  IS,9.61,9.0,8.5,8.75,8.92
+188,VULPE,I.I.,Vlad,IS  CTI,9.61,9.5,8.0,8.75,8.92
+189,BERCARU,F.,Cristian,IS  CTI  IS.X  CTI.X,9.6,9.5,8.0,8.75,8.92
+190,GOAGĂ,D.C.,Mihai-Alexandru,CTI  IS  CTI.X  IS.X,9.6,8.5,9.0,8.75,8.92
+191,JUGARU,N.,Bianca-Celestina,CTI  IS  CTI.X  IS.X,9.6,8.5,9.0,8.75,8.92
+192,BĂLĂCEANU,C.,Teodor-Eduard,CTI  IS,8.56,9.0,9.0,9.0,8.91
+193,STĂNESCU,I.C.,Mihai-Ovidiu,CTI  IS,8.56,10.0,8.0,9.0,8.91
+194,CIOCHIRDEL,M.,Alin-Florentin,CTI  IS  CTI.X  IS.X,9.56,8.5,9.0,8.75,8.91
+195,HENDEA,V.,Andreia-Alexandra,IS  CTI,9.56,9.0,8.5,8.75,8.91
+196,PLĂCINTARU,C.,Alexandra-Luisa,CTI  IS,9.56,9.0,8.5,8.75,8.91
+197,COJOCARU,V.,Laura-Andreea,IS  CTI,9.55,8.5,9.0,8.75,8.91
+198,AIOANEI,M.,Cristian-Alexandru,CTI  IS,8.51,9.0,9.0,9.0,8.9
+199,IVAȘCU,I.,Robert,CTI  IS  CTI.X  IS.X,8.51,9.0,9.0,9.0,8.9
+200,MIHĂILĂ,C.,Sabina-Andreea,CTI  IS  CTI.X  IS.X,8.51,9.0,9.0,9.0,8.9
+201,BERDILĂ,I.,Cristian-Ștefan,IS  CTI  CTI.X  IS.X,8.5,10.0,8.0,9.0,8.9
+202,CATANGIU,C.C.,George-Bogdan,CTI  IS  CTI.X,9.53,8.5,9.0,8.75,8.9
+203,BRÎNDUȘESCU,M.,Silvia,CTI  IS  CTI.X  IS.X,9.5,9.0,8.5,8.75,8.9
+204,MISTREANU,C.,Ionuț-Cosmin,CTI  IS  CTI.X  IS.X,9.5,9.0,8.5,8.75,8.9
+205,PRAHOVEANU,M.,Mădălin-Mihail,CTI  IS  CTI.X  IS.X,8.48,8.5,9.5,9.0,8.89
+206,IORDACHE,I.,Daniel,CTI  IS  CTI.X  IS.X,8.45,8.5,9.5,9.0,8.89
+207,BRĂILEANU,V.,Andreea-Simona,IS  CTI  IS.X  CTI.X,9.48,9.0,8.5,8.75,8.89
+208,BARBU,F.,Bogdan-Daniel,CTI  IS  CTI.X  IS.X,9.46,8.5,9.0,8.75,8.89
+209,ENE,Ş.,Maria-Cornelia,CTI  IS,9.46,8.5,9.0,8.75,8.89
+210,PETRACHE,T.C.,Elena-Daniela,CTI  IS,9.46,9.0,8.5,8.75,8.89
+211,NECULAIDE,I.,Cătălin-Andrei,CTI  IS  CTI.X  IS.X,9.43,9.5,8.0,8.75,8.88
+212,CHIȘ,T.V.,Daniel-Ioan,IS  IS.X  CTI.X,9.4,8.5,9.0,8.75,8.88
+213,DUMITRU,I.,Alexandru-Sebastian,CTI  IS  CTI.X  IS.X,8.36,8.5,9.5,9.0,8.87
+214,HOROPCIUC,D.,Florin,CTI  IS,9.38,9.5,8.0,8.75,8.87
+215,IONESCU,F.,Marius-Florin,CTI  IS  CTI.X  IS.X,9.38,9.0,8.5,8.75,8.87
+216,NETU,G.,Raluca-Ioana,CTI  IS  CTI.X  IS.X,9.38,9.0,8.5,8.75,8.87
+217,BÎRLICĂ,I.,Andrei-Alexandru,CTI  IS  CTI.X  IS.X,9.35,8.5,9.0,8.75,8.87
+218,FLUTURAŞ,P.,Marian,CTI  IS,8.33,9.0,9.0,9.0,8.86
+219,FLOREA,I.,Ionuț,IS  CTI,8.3,9.0,9.0,9.0,8.86
+220,MIRCEA,R.H.,Felix-Florian,CTI  IS  CTI.X  IS.X,8.3,9.5,8.5,9.0,8.86
+221,BOBEANU,V.,Rahela-Alexandra,CTI  IS  CTI.X  IS.X,9.33,8.5,9.0,8.75,8.86
+222,IVĂNEL,M.,Robert-  Ionuț,CTI  IS  CTI.X  IS.X,9.33,8.5,9.0,8.75,8.86
+223,VASILE,N.,Nicolae-Alexandru,CTI  IS  CTI.X  IS.X,9.33,8.5,9.0,8.75,8.86
+224,BLÂNZEANU,D.,Doru-Florin,CTI  IS  CTI.X  IS.X,9.31,8.5,9.0,8.75,8.86
+225,ALEXANDRESCU,G.,Cristian,CTI  IS  CTI.X  IS.X,9.3,9.5,8.0,8.75,8.86
+226,ANTON,C.N.,Vlad-Viorel,IS  CTI  IS.X  CTI.X,9.3,8.5,9.0,8.75,8.86
+1,ELISEI,C.,Alexandru,CTI.X  IS.X,9.62,9.5,9.5,9.5,9.52
+2,BÎRLICĂ,I.,Iulian-Ioan,CTI  CTI.X  IS  IS.X,8.86,10.0,8.5,9.25,9.17
+3,POPA,D.P.,Miruna,CTI  CTI.X  IS  IS.X,8.85,9.5,9.0,9.25,9.17
+4,VLAD,Gh.,Tatiana,CTI.X  IS.X,9.88,8.5,9.5,9.0,9.17
+5,VÎLCEANU,D.,Alexandra  -  Cătălina,CTI  CTI.X  IS  IS.X,9.86,8.5,9.5,9.0,9.17
+6,SÎRBU,A.G.,Alexandra-Ramona,CTI  CTI.X  IS  IS.X,8.83,9.5,9.0,9.25,9.16
+7,ANGELESCU,Al.C.,Vladimir,CTI  CTI.X  IS  IS.X,9.8,9.5,8.5,9.0,9.16
+8,COTEȚ,A.,Teodor-Mihai,CTI  CTI.X  IS  IS.X,9.71,9.5,8.5,9.0,9.14
+9,STOICA,Gh.,George-Ovidiu,CTI  CTI.X  IS  IS.X,8.65,9.0,9.5,9.25,9.13
+10,DAMȘA,V.,Elena-Veronica,CTI  CTI.X  IS  IS.X,9.66,9.0,9.0,9.0,9.13
+11,CRĂCIUN,A.,Alexandru,CTI  CTI.X  IS  IS.X,9.6,9.0,9.0,9.0,9.12
+12,BEJAN,R.,Remus-Dragoș,CTI  CTI.X  IS  IS.X,8.58,9.0,9.5,9.25,9.11
+13,CÎRSTIAN,D.V.,Alexandra-Mariana,CTI  CTI.X  IS  IS.X,9.58,9.5,8.5,9.0,9.11
+14,SCARLAT,D.,Marius-George,CTI  CTI.X  IS  IS.X,9.55,8.5,9.5,9.0,9.11
+15,ZEGHERU,C.,Horia-Alexandru,CTI  CTI.X  IS,9.55,9.0,9.0,9.0,9.11
+16,VOINESCU,M.,Petre,CTI  CTI.X  IS  IS.X,8.51,9.5,9.0,9.25,9.1
+17,IONEANU,T.,Andrei,CTI  CTI.X  IS  IS.X,9.5,8.5,9.5,9.0,9.1
+18,TUDORUȚ,C.,Tudor-Robert,CTI  CTI.X  IS  IS.X,8.45,9.0,9.5,9.25,9.09
+19,CIUCĂ,F.,Maria-Theodora,CTI  CTI.X  IS  IS.X,9.48,9.0,9.0,9.0,9.09
+20,ION,N.,Bogdan-Ionuț,CTI  CTI.X,9.45,8.5,9.5,9.0,9.09
+21,BREBU,I.C.,Andrei-Alexandru,CTI  CTI.X  IS  IS.X,9.41,9.5,8.5,9.0,9.08
+22,NENCIU,C.,Bianca-Ioana,CTI  CTI.X  IS  IS.X,8.38,9.5,9.0,9.25,9.07
+23,DIACONU,C.,Vlad-Mihai,CTI  CTI.X  IS  IS.X,9.38,8.5,9.5,9.0,9.07
+24,CONSTANTINESCU,M.,Ioana-Maria,CTI  CTI.X  IS  IS.X,9.33,9.0,9.0,9.0,9.06
+25,HEIM,M.,George-Leonard,CTI  CTI.X  IS,8.2,9.5,9.0,9.25,9.04
+26,LAZĂR,R.M.,Miruna-Georgiana,CTI  CTI.X  IS,9.23,9.0,9.0,9.0,9.04
+27,BUȘE,L.C.,Vlad-Constantin,CTI  CTI.X  IS  IS.X,9.21,8.5,9.5,9.0,9.04
+28,STAMATE,N.S.Ș.,Matei-Alexandru,CTI  CTI.X  IS  IS.X,9.2,9.0,9.0,9.0,9.04
+29,GHENEA,D.,Cătălin,CTI  CTI.X  IS  IS.X,9.15,9.0,9.0,9.0,9.03
+30,POPESCU,A.,Mihai-Andrei,CTI  CTI.X  IS  IS.X,9.15,8.5,9.5,9.0,9.03
+31,STĂNESCU,R.C.,Andrei-Bogdan,CTI  CTI.X  IS  IS.X,9.15,9.0,9.0,9.0,9.03
+32,OPREA,S.,Dragoș-Cristian,CTI  CTI.X  IS  IS.X,9.11,8.5,9.5,9.0,9.02
+33,TUDORECI,V.,Claudiu-Sebastian,CTI  CTI.X  IS  IS.X,9.11,9.0,9.0,9.0,9.02
+34,SĂPUNARU,N.,Andrei-Mihail,CTI  CTI.X  IS,9.03,9.0,9.0,9.0,9.0
+35,CRĂCIUN,R.,Alexandru-Sever,CTI  CTI.X  IS  IS.X,9.0,9.0,9.0,9.0,9.0
+36,COSTACHE,M.,Marius-Cristian,CTI  CTI.X  IS  IS.X,8.98,9.0,9.0,9.0,8.99
+37,NEAMȚU,V.,George-Nicolae,CTI  CTI.X  IS  IS.X,8.96,9.0,9.0,9.0,8.99
+38,MARDALE,R.I.,Andrei-Iulian,CTI.X  IS.X,7.9,9.5,9.0,9.25,8.98
+39,VLAD,A.,Alexandru,CTI  CTI.X  IS  IS.X,8.93,8.5,9.5,9.0,8.98
+40,POPA,L.D.,Vlad,CTI  CTI.X  IS  IS.X,7.8,9.0,9.5,9.25,8.96
+41,ȘTEFAN,D.V.,Radu,CTI  CTI.X  IS  IS.X,8.75,9.5,8.5,9.0,8.95
+42,TUDOR,Gh.,George-Bogdan,CTI  CTI.X  IS  IS.X,8.66,9.0,9.0,9.0,8.93
+43,CRIȘAN,V.,Cosmin-Cătălin,CTI  CTI.X  IS  IS.X,8.61,8.5,9.5,9.0,8.92
+44,PĂTRU,V.,Andreea-Camelia,CTI  CTI.X  IS  IS.X,9.43,8.5,9.0,8.75,8.88
+45,ŞERBAN,V.,Maria-Luiza,CTI  CTI.X  IS  IS.X,9.41,8.5,9.0,8.75,8.88
+46,POPA,V.M.,Dragoș,CTI  IS  CTI.X  IS.X,8.28,9.0,9.0,9.0,8.85
+47,MIHAI,F.,Alexandru,CTI  IS  CTI.X  IS.X,9.26,8.5,9.0,8.75,8.85
+48,VÂLVOIU,R.C.,Ștefan-Alexandru,CTI  IS  CTI.X  IS.X,9.26,9.0,8.5,8.75,8.85
+49,ENE,P.,Vlăduț-Narcis,CTI  IS  CTI.X  IS.X,8.2,8.5,9.5,9.0,8.84
+50,IOANA,Gh.,Gheorghe-Alexandru,CTI  IS  CTI.X  IS.X,9.23,8.5,9.0,8.75,8.84
+51,MORARU,C.,Bianca-Larisa,CTI  IS  CTI.X  IS.X,9.23,9.0,8.5,8.75,8.84
+52,STAN,V.,Mariana-Alexandra,CTI  CTI.X  IS  IS.X,9.23,9.0,8.5,8.75,8.84
+53,MATEI,C.,Alexandru-Cristian,CTI  IS  CTI.X  IS.X,9.18,8.5,9.0,8.75,8.83
+54,POPESCU,D.F.,Ioana-Laura,IS  CTI  CTI.X  IS.X,9.18,9.0,8.5,8.75,8.83
+55,COMAN,G.,Mihai,CTI  IS  CTI.X  IS.X,9.15,8.5,9.0,8.75,8.83
+56,ANDREI,V.,Ștefan-Carol,CTI  IS  CTI.X  IS.X,9.13,8.5,9.0,8.75,8.82
+57,BOGHIU,I.,Razvan-Iulian,CTI  CTI.X  IS  IS.X,9.13,9.0,8.5,8.75,8.82
+58,CUTCUNEL,I.,Dragoș-Ioan,CTI  CTI.X  IS  IS.X,9.13,9.0,8.5,8.75,8.82
+59,HORINCAR,V.,Sabina-Andreea,CTI  IS  CTI.X  IS.X,9.13,9.0,8.5,8.75,8.82
+60,DUȘA,Ș.L.,Andrei-Ștefan,CTI  IS  CTI.X  IS.X,9.1,8.5,9.0,8.75,8.82
+61,CHIRCIU,M.,Andrei-Mihai,CTI  IS  CTI.X  IS.X,9.05,8.5,9.0,8.75,8.81
+62,GĂRDUȘ,O.D.,Alecsandru-Vlad,CTI  IS  CTI.X  IS.X,9.01,9.0,8.5,8.75,8.8
+63,MIHALCEA,C.,Irena,CTI  IS  CTI.X  IS.X,9.01,9.0,8.5,8.75,8.8
+64,DUMITRESCU,G.,Andrei,CTI  CTI.X  IS  IS.X,9.0,8.5,9.0,8.75,8.8
+65,GRECU,C.,Alin-Ștefan,CTI  IS  CTI.X  IS.X,7.98,9.0,9.0,9.0,8.79
+66,TURIAC,L.,Lucian-Ionuț,IS  CTI  CTI.X  IS.X,8.98,8.5,9.0,8.75,8.79
+67,WEISZ,R.,Sergiu,CTI  CTI.X  IS  IS.X,8.96,9.5,8.0,8.75,8.79
+68,FRĂŢILĂ,N.,Constantin,CTI  IS  CTI.X  IS.X,7.93,9.0,9.0,9.0,8.78
+69,MIRON,M.,Cezar-Andrei,CTI  IS  CTI.X  IS.X,8.93,9.0,8.5,8.75,8.78
+70,GLONȚ,L.I.,Alexandru-Constantin,CTI  IS  CTI.X  IS.X,8.91,9.0,8.5,8.75,8.78
+71,PAIU,C.,Ovidiu-George,CTI  CTI.X  IS  IS.X,8.91,9.0,8.5,8.75,8.78
+72,PĂUN,A.R.,Constantin-Daniel,CTI  IS  CTI.X  IS.X,8.88,8.0,9.5,8.75,8.77
+73,TUDOROIU,I.F.,Ionuţ-Adrian,CTI  IS  CTI.X  IS.X,6.81,9.0,9.5,9.25,8.76
+74,COMAN,G.B.P.,Călin-Ilie,CTI  CTI.X  IS  IS.X,8.83,8.5,9.0,8.75,8.76
+75,VLAICU,G.,Victor-Alexandru,CTI  CTI.X  IS  IS.X,8.83,9.0,8.5,8.75,8.76
+76,ARSENE,F.,Ramona-Georgiana,CTI  IS  CTI.X  IS.X,9.83,8.5,8.5,8.5,8.76
+77,HĂNȚOIU,Gh.,Alin,CTI  IS  CTI.X  IS.X,7.75,8.5,9.5,9.0,8.75
+78,COVACI,D.,Vlad,CTI  IS  CTI.X  IS.X,8.73,9.0,8.5,8.75,8.74
+79,STOICESCU,I.N.,Andrei-Traian,CTI  IS  CTI.X  IS.X,8.7,9.5,8.0,8.75,8.74
+80,PUI,I.D.,Diana-Maria,CTI  IS  CTI.X  IS.X,9.73,9.0,8.0,8.5,8.74
+81,TARACHIU,V.C.,Vlad-George,CTI  IS  CTI.X  IS.X,7.66,9.5,8.5,9.0,8.73
+82,LUNGEANU,V.,Maria-Roxana,CTI  IS  CTI.X  IS.X,9.66,9.0,8.0,8.5,8.73
+83,MARINAȘ,G.,Adrian-Claudiu,CTI  CTI.X  IS  IS.X,8.63,9.5,8.0,8.75,8.72
+84,VOICU,M.,Ionuţ-Sorin,CTI  IS  CTI.X  IS.X,8.61,10.0,7.5,8.75,8.72
+85,NECHITA,A.,Laura,CTI  IS  CTI.X  IS.X,9.55,9.5,7.5,8.5,8.71
+86,PODAȘCĂ,G.C.,Alexandru-Gabriel,CTI  IS  CTI.X  IS.X,8.53,9.5,8.0,8.75,8.7
+87,GHEORGHE,N.,Adrian-Valentin,CTI  CTI.X  IS  IS.X,9.53,8.5,8.5,8.5,8.7
+88,PREDA,N.,Marian-Georgian,CTI  CTI.X,7.48,8.5,9.5,9.0,8.69
+89,OSICEANU,N.,Daniel-Nicolae,CTI  IS  CTI.X  IS.X,9.48,8.5,8.5,8.5,8.69
+90,RADU,V.,Eugen-Ionuț,CTI  IS  CTI.X  IS.X,8.43,9.0,8.5,8.75,8.68
+91,LEOCĂ,Gh.,Marius-Adrian,CTI  IS  CTI.X  IS.X,8.4,9.0,8.5,8.75,8.68
+92,AMARIEI,G.L.,George  Bogdan,CTI  IS  CTI.X  IS.X,9.43,9.0,8.0,8.5,8.68
+93,FINTOIU,I.,Ioana-Alexandra,CTI  IS  CTI.X,8.38,8.5,9.0,8.75,8.67
+94,COMAN,C.D.,Andrei-Vlăduţ,CTI  IS  CTI.X  IS.X,8.35,8.5,9.0,8.75,8.67
+95,MARGAN,G.,Alexandru-Cătălin,CTI  IS  CTI.X  IS.X,8.35,8.5,9.0,8.75,8.67
+96,LUCA,D.R.,Ciprian,CTI  IS  CTI.X  IS.X,9.36,9.0,8.0,8.5,8.67
+97,VRÂNCEANU,D.,Vasile-Bogdan,CTI  IS  CTI.X  IS.X,8.33,9.0,8.5,8.75,8.66
+98,OROȘANU,F.,Claudiu,CTI  IS  CTI.X  IS.X,9.31,9.0,8.0,8.5,8.66
+99,ENE,C.,Andrei-Daniel,CTI  IS  CTI.X  IS.X,9.25,8.5,8.5,8.5,8.65
+100,ALBESCU,R.,Vlad-Andrei,CTI  IS  CTI.X  IS.X,9.2,8.5,8.5,8.5,8.64
+1,MATEI,C.,Dănuț,IS.X  CTI.X,9.0,9.0,9.5,9.25,9.2
+2,ȘTIRBU,A.,Elena-Aurelia,IS  IS.X,9.28,9.0,8.5,8.75,8.85
+3,STANCIU,P.,Traian-Costin,IS  CTI  IS.X  CTI.X,8.23,9.0,9.0,9.0,8.84
+4,MANEA,C.,Sebastian,IS  IS.X  CTI  CTI.X,9.23,8.5,9.0,8.75,8.84
+5,HAIDUCU,I.,Daniel,IS  IS.X,9.13,9.0,8.5,8.75,8.82
+6,IORDACHE,I.,Andra-Gabriela,IS  IS.X  CTI  CTI.X,9.1,8.5,9.0,8.75,8.82
+7,BODNARIU,D.,Mihai,IS  IS.X  CTI  CTI.X,9.03,8.5,9.0,8.75,8.8
+8,MACOVEI,R.,Theodor-Adrian,IS  IS.X,9.0,8.5,9.0,8.75,8.8
+9,MICU,I.,Bogdan-Marian,CTI  IS  IS.X  CTI.X,8.91,9.0,8.5,8.75,8.78
+10,MARIN,V.,Stela-Cristina,IS  IS.X,8.9,9.0,8.5,8.75,8.78
+11,POPESCU,D.,Radu-Ștefan,IS  CTI  IS.X  CTI.X,8.68,9.0,8.5,8.75,8.73
+12,DAMIAN,N.,Roxana-Nicoleta,IS  CTI  IS.X  CTI.X,8.55,9.0,8.5,8.75,8.71
+13,STAN,M.M.,Mădălin-Ștefan,IS  CTI  IS.X  CTI.X,9.58,9.0,8.0,8.5,8.71
+14,FUSEA,M.,Vlad-Adrian,IS  IS.X,8.53,9.0,8.5,8.75,8.7
+15,FILIMON,M.,Daliana-Ioana,IS  CTI  IS.X  CTI.X,9.51,8.5,8.5,8.5,8.7
+16,MAZILU,C.I.,Răzvan-Ionuț,IS  IS.X  CTI  CTI.X,7.48,9.0,9.0,9.0,8.69
+17,POPESCU,A.,Paul-Gabriel,CTI  IS  IS.X  CTI.X,8.45,9.0,8.5,8.75,8.69
+18,NICOARĂ,I.,Horia-Cosmin,IS  IS.X,7.38,9.0,9.0,9.0,8.67
+19,NIȚU,V.,Răzvan-Marian,IS  IS.X  CTI  CTI.X,8.35,9.0,8.5,8.75,8.67
+20,DEDIȚOIU,V.,Alexandru-Valentin,IS  IS.X,8.33,8.0,9.5,8.75,8.66
+21,GĂUREANU,Gh.,Anamaria-Cătălina,IS  IS.X  CTI,8.33,8.0,9.5,8.75,8.66
+22,PENESCU,P.A.,Cornel-Dumitru,IS  CTI  IS.X  CTI.X,8.28,8.5,9.0,8.75,8.65
+23,ILIE,S.C.,Sergiu-Mihail,CTI  IS  CTI.X  IS.X,8.15,9.0,8.5,8.75,8.63
+24,MANOLE,V.,Vlăduț-Ioan,CTI  IS  CTI.X  IS.X,8.15,9.5,8.0,8.75,8.63
+25,GHERASIM,C.,Codrin-Ștefan,CTI  IS  CTI.X  IS.X,9.16,8.5,8.5,8.5,8.63
+26,VIȘAN,I.M.,Andreea-Erika,CTI  IS  CTI.X  IS.X,9.16,8.5,8.5,8.5,8.63
+27,CORNEA,D.M.,Lorena-Ioana,IS  CTI  IS.X  CTI.X,9.15,8.5,8.5,8.5,8.63
+28,STOIAN,T.,Mihaela-Viorica,CTI  IS  CTI.X  IS.X,9.15,8.5,8.5,8.5,8.63
+29,NICOLAE,R.,Vlad-Alexandru,IS  CTI  IS.X  CTI.X,8.13,8.5,9.0,8.75,8.62
+30,MORARU,A.,Ștefan-Radu,IS  CTI  IS.X  CTI.X,9.11,9.0,8.0,8.5,8.62
+31,CIOCÎRLAN,F.,Marina,CTI  IS  CTI.X  IS.X,8.06,8.5,9.0,8.75,8.61
+32,CONSTANTIN,G.E.,Ciprian-Traian,IS  IS.X  CTI.X,9.08,8.5,8.5,8.5,8.61
+33,DULGHERU,S.,Florentina-Cristina,CTI  IS  CTI.X  IS.X,9.08,8.5,8.5,8.5,8.61
+34,ENE,V.,Andrei-Ionuț,CTI  CTI.X  IS  IS.X,9.08,8.5,8.5,8.5,8.61
+35,CHELEȘ,V.M.,Bogdan-Andrei,CTI  IS  CTI.X  IS.X,9.06,8.5,8.5,8.5,8.61
+36,VINTILĂ,Şt.,Ioan-Raul,CTI  IS  CTI.X  IS.X,9.06,8.5,8.5,8.5,8.61
+37,TOADER,G.,Călin-Mihai,CTI  IS  CTI.X  IS.X,8.03,9.5,8.0,8.75,8.6
+38,ARMEGIOIU,M.I.,Tudor-Victor,CTI  CTI.X  IS  IS.X,8.0,9.0,8.5,8.75,8.6
+39,OPRESCU,E.,Beniamin,CTI  IS  CTI.X  IS.X,8.0,8.5,9.0,8.75,8.6
+40,TĂRLUNGEANU,Gh.,Marian,CTI  IS  CTI.X  IS.X,9.01,9.0,8.0,8.5,8.6
+41,TĂBUȘ,I.,Ion-Gabriel,CTI  IS  CTI.X  IS.X,9.0,9.0,8.0,8.5,8.6
+42,ROTARU,P.,Cătălina,CTI  IS  CTI.X  IS.X,8.98,9.0,8.0,8.5,8.59
+43,RĂDUCAN,P.,Gabriel,CTI  CTI.X  IS  IS.X,8.96,8.5,8.5,8.5,8.59
+44,BODNARIU,S.,Laura,IS  CTI  IS.X  CTI.X,8.91,8.5,8.5,8.5,8.58
+45,NICOLAE,I.,Mihai,CTI  IS  CTI.X  IS.X,8.88,9.0,8.0,8.5,8.57
+46,ILAȘ,M.C.,Ștefan-Alexandru,CTI  IS  CTI.X  IS.X,8.86,9.0,8.0,8.5,8.57
+47,MUSCALU,F.,Georgiana,CTI  IS  CTI.X  IS.X,8.86,9.0,8.0,8.5,8.57
+48,HUIBAN,C.,Constantin-Răzvan,IS  CTI  IS.X  CTI.X,8.76,8.5,8.5,8.5,8.55
+49,URSULESCU,M.I.,Liviu-Gabriel,CTI  IS  CTI.X  IS.X,8.75,9.0,8.0,8.5,8.55
+50,VOINEA,C.G.,Radu-Mihai,IS  IS.X,7.73,9.5,8.0,8.75,8.54
+1,BOT,V.,Mihai,CTI.M,9.16,9.5,9.0,9.25,9.23
+probe,crt.,BAC,P1,P2,GEN,etapa  II*,,,
+9.50,1,POPA,D.,Maria-Cătălina,CTI,9.40,8.50,9.00,9.08
+8.50,2,SIMION,F.,Ruxandra,CTI,9.86,9.00,8.75,8.97
+9.00,3,MANEA,E.,Bogdan-Ștefan,CTI,8.61,9.00,9.00,8.92
+9.00,4,ACHIREI,M.,Emanuel,CTI,9.53,8.50,8.75,8.90
+8.50,5,STĂNESCU,C.,Jean-Alexandru,CTI  IS,9.25,9.00,8.75,8.85
+9.00,6,TEODORESCU,V.,Octav-Iulian,CTI  IS,9.25,8.50,8.75,8.85
+8.50,7,NEGOIESCU,I.,Ion-Valentin,IS  CTI,9.18,9.00,8.75,8.83
+9.00,8,DUMITRESCU,E.,Robert-Marian,CTI  IS,9.10,8.50,8.75,8.82
+8.50,9,ȘERDIN,R.,Iordan-Florinel,CTI  IS,8.96,9.00,8.75,8.79
+9.00,10,GAVRILĂ,I.,Olivier-Manuel,CTI  IS,8.90,8.50,8.75,8.78
+8.50,11,HODOROG,M.,Isabela,CTI  IS,8.90,9.00,8.75,8.78
+9.00,12,TOROP,M.,Denisa-Bianca,CTI  IS,8.86,8.50,8.75,8.77
+8.50,13,RADU,V.,Robert-Cătălin,CTI  IS,8.85,9.00,8.75,8.77
+8.50,14,SURDOIU,Gh.V.,Tudor-Marian,CTI  IS,9.83,8.50,8.50,8.76
+9.00,15,MICU,Gh.C.,Ana,CTI  IS,8.66,8.50,8.75,8.73
+9.00,16,LICU,V.,Denisa-Valentina,CTI  IS,9.65,8.00,8.50,8.73
+9.50,17,ALEXANDRU,N.S.,Andrei-Sorin,CTI  IS,7.41,8.50,9.00,8.68
+8.50,18,BĂBEANU,C.,Radu-Constantin,CTI  IS,8.41,9.00,8.75,8.68
+9.00,19,ADEACONIȚEI,G.,Alexandru,CTI  IS,9.38,8.00,8.50,8.67
+9.00,20,MIHĂILĂ,F.,Radu-Gabriel,CTI  IS,8.31,8.50,8.75,8.66
+8.50,21,COTAN,I.,Roxana-Amalia,IS  CTI,9.31,8.50,8.50,8.66
+9.00,22,OPREA,V.,Eugen-Marius,CTI  IS,9.31,8.00,8.50,8.66
+9.00,23,ANDOR,D.,Alexandra-Ramona,CTI  IS,9.30,8.00,8.50,8.66
+8.50,24,BURTICĂ,I.,Ionel-Flavian,CTI  IS,9.30,8.50,8.50,8.66
+8.50,25,CONSTANTIN,V.,Cornel-Bogdan,CTI  IS,9.23,8.50,8.50,8.64
+9.00,26,MANDEA,C.L.,Alexandru-Constantin,CTI  IS  CTI.X,8.10,8.50,8.75,8.62
+8.50,27,COJANU,P.,Ionela-Mădălina,CTI  IS,9.08,8.50,8.50,8.61
+8.50,28,BURCEA,S.,Geanin-Mihai,CTI  IS,9.06,8.50,8.50,8.61
+8.50,29,CIUCIU,Ș.,Ioan-Dionisie,CTI  IS  CTI.X,9.05,8.50,8.50,8.61
+8.50,30,SAVU,D.,Andrei-Laurențiu,CTI  IS,8.86,8.50,8.50,8.57
+8.50,31,VLAD,E.,George-Alexandru,CTI  IS,7.81,9.00,8.75,8.56
+9.00,32,VARVAROI,L.S.,Raluca-Mihaela,IS,8.78,8.00,8.50,8.55
+9.00,33,OLTEANU,T.,Alexandru  Nicușor,IS  IS.X  CTI  CTI.X,8.73,8.00,8.50,8.54
+34,MONDIRU,Gh.,Cristian-George,CTI  IS  CTI.X  IS.X,8.7,8.5,8.5,8.5,8.54
+35,DUIMOVICI,A.,Adrian,CTI  CTI.X  IS  IS.X,9.73,9.0,7.5,8.25,8.54
+36,EFTIMIE,D.G.,Denis,CTI  IS  CTI.X  IS.X,9.73,8.0,8.5,8.25,8.54
+37,VOINEA,V.,Mihail,IS  CTI,7.66,9.0,8.5,8.75,8.53
+38,ALISTAR,C.,Andreea,CTI  CTI.X  IS  IS.X,8.65,8.5,8.5,8.5,8.53
+39,RĂUȚĂ,D.F.,Alexandru,CTI  IS  CTI.X  IS.X,8.61,9.0,8.0,8.5,8.52
+40,SOARE,F.,Alexandra,CTI  IS  CTI.X  IS.X,8.61,9.5,7.5,8.5,8.52
+41,MIHAI,N.,Adrian-Florin,IS  CTI  IS.X  CTI.X,8.6,8.5,8.5,8.5,8.52
+42,RANTEȘ,D.,Anca-Mădălina,IS  IS.X  CTI  CTI.X,8.6,8.5,8.5,8.5,8.52
+43,NEGRU,M.,Robert-Marius,CTI  CTI.X  IS  IS.X,8.56,8.0,9.0,8.5,8.51
+44,GHERGUȚ,R.,Alexandru-Gabriel,CTI  IS,9.55,8.5,8.0,8.25,8.51
+45,MUȘAT,Gh.,Andreea-Cosmina,IS  CTI,9.55,9.0,7.5,8.25,8.51
+46,RUSU,Gh.,Alecsandra-Viorica,CTI  IS  CTI.X  IS.X,8.53,8.5,8.5,8.5,8.5
+47,POPESCU,D.,Dumitru-Răzvan,IS  CTI  IS.X,9.53,7.5,9.0,8.25,8.5
+48,CÎRSTEA,P.S.,Ioana,CTI  IS,9.5,8.5,8.0,8.25,8.5
+49,GRIGORE,R.,Ștefan-Daniel,CTI  IS,8.48,8.0,9.0,8.5,8.49
+50,GLIȘCĂ,M.T.,Maria-Luiza,CTI  CTI.X  IS  IS.X,8.46,9.0,8.0,8.5,8.49
+51,LUCA,T.C.,Daniel-Alexandru,CTI  IS  CTI.X  IS.X,8.46,8.5,8.5,8.5,8.49
+52,BOBOC,M.,Bianca-Ioana,CTI  IS  CTI.X  IS.X,9.48,9.0,7.5,8.25,8.49
+53,POPESCU,I.,Marius-Adrian,CTI  IS,9.46,8.5,8.0,8.25,8.49
+54,PÎRLOG,G.,Alina-Andreea,CTI  CTI.X  IS  IS.X,9.45,8.5,8.0,8.25,8.49
+55,CUCU,Gh.,Filip-Antonio,CTI  CTI.X  IS  IS.X,8.43,9.0,8.0,8.5,8.48
+56,SANDU,I.L.,Albert-Alexandru,CTI  IS  CTI.X  IS.X,8.43,8.5,8.5,8.5,8.48
+57,BERECHET,I.,Robert-David,IS  CTI  IS.X  CTI.X,8.41,8.0,9.0,8.5,8.48
+58,GRĂJDEANU,I.,Adrian,CTI  IS,9.43,9.5,7.0,8.25,8.48
+59,ROŞCA,V.,Mirela-Mihaela,CTI  IS,9.41,9.0,7.5,8.25,8.48
+60,GAMAN,I.,Alexandra-Elena,CTI  IS  CTI.X  IS.X,9.36,8.5,8.0,8.25,8.47
+61,TOADER,M.,Rodica-Florentina- Raluca,CTI  IS,8.3,8.0,9.0,8.5,8.46
+62,BĂJENARU,F.M.,Cristian-Mihai,CTI  CTI.X  IS  IS.X,9.33,8.5,8.0,8.25,8.46
+63,ILIE,C.,Claudiu-Mihăiță,CTI  IS  CTI.X  IS.X,9.3,9.0,7.5,8.25,8.46
+64,IVAN,Al.,Maria-Alexandra,CTI  IS,9.3,8.5,8.0,8.25,8.46
+65,PAȚACHIA,M.,Mihaela,CTI  IS  CTI.X  IS.X,9.3,8.5,8.0,8.25,8.46
+66,RĂDULESCU,V.,Ruxandra,CTI  CTI.X  IS,9.3,9.0,7.5,8.25,8.46
+67,CATRUC,N.,Iurie,CTI.M,8.28,9.0,8.0,8.5,8.45
+68,OVEJAN,C.,Anamaria-Margaret,CTI  IS,8.26,8.0,9.0,8.5,8.45
+69,VASILACHE,I.,Mihaela,IS  IS.X  CTI  CTI.X,8.26,9.5,7.5,8.5,8.45
+70,BODNĂRESCU,P.,Ciprian,CTI  IS  CTI.X,9.26,8.5,8.0,8.25,8.45
+71,DAVID,I.,Ionuț-Robert,CTI  IS  CTI.X  IS.X,9.25,8.0,8.5,8.25,8.45
+72,POP,P.,Patrick-Virgil-Cornel,CTI  IS  CTI.X  IS.X,7.21,9.5,8.0,8.75,8.44
+73,MIHAI,I.M.,Florian-Bogdan,CTI  IS,9.21,9.0,7.5,8.25,8.44
+74,SMEADĂ,M.V.,Ion-Cosmin,CTI  CTI.X  IS  IS.X,9.2,8.5,8.0,8.25,8.44
+75,STANCIU,Gh.,Andreea,CTI  IS  CTI.X  IS.X,9.2,8.5,8.0,8.25,8.44
+76,TUDOR,F.,Daniela-Valentina,CTI  IS  CTI.X  IS.X,9.2,8.5,8.0,8.25,8.44
+77,COMAN,D.,Adrian-Ioan,CTI  CTI.X  IS  IS.X,7.16,8.5,9.0,8.75,8.43
+78,DRAGOMIR,Şt.,Elena-Raluca,IS  CTI  IS.X  CTI.X,8.16,8.5,8.5,8.5,8.43
+79,GRĂJDAN,L.,Ioan-Alexandru,CTI  IS  CTI.X  IS.X,8.16,9.0,8.0,8.5,8.43
+80,NEAGU,L.M.,Alin-Mădălin,CTI  IS,8.15,8.5,8.5,8.5,8.43
+81,POTOROACĂ,D.,Adrian,CTI  IS,9.18,8.0,8.5,8.25,8.43
+82,CONSTANTIN,I.L.,Ionela-Livia,CTI  IS,9.15,8.5,8.0,8.25,8.43
+83,GABOR,I.,Dragoș-Alexandru,CTI  IS  CTI.X  IS.X,9.15,9.0,7.5,8.25,8.43
+84,STOIAN,D.,Beniamin,CTI  IS  IS.X  CTI.X,9.15,8.5,8.0,8.25,8.43
+85,MARIN,S.M.,Bogdan-Alexandru,CTI  IS,8.11,9.0,8.0,8.5,8.42
+86,DAN,C.C.,Alexandru-Matei,CTI  IS,8.1,9.0,8.0,8.5,8.42
+87,ȘERBAN,M.A.,Vlad-Ștefan,IS  CTI  IS.X  CTI.X,9.11,8.5,8.0,8.25,8.42
+88,PREFAC,C.,Nicolae-Daniel,CTI  IS  CTI.X  IS.X,9.1,9.0,7.5,8.25,8.42
+89,DRAGOMIR,M.,Mihaela-Cătălina,CTI  IS,9.05,9.0,7.5,8.25,8.41
+90,ION,Gh.V.,Paula-Lavinia,IS  CTI,8.0,8.5,8.5,8.5,8.4
+91,IEREMCIUC,V.,Florina-Oltea,IS  IS.X,9.03,8.5,8.0,8.25,8.4
+92,MARTIN,C.C.,Alexandru-Marius,CTI  IS  CTI.X  IS.X,9.03,8.5,8.0,8.25,8.4
+93,ȘERBAN,A.,Petronela-Andreea,CTI  IS,9.03,8.5,8.0,8.25,8.4
+94,IONESCU,E.,Eduard-George,CTI  IS  CTI.X,8.98,8.5,8.0,8.25,8.39
+95,LUCA,P.,Laura-Andreea,CTI  IS  CTI.X  IS.X,8.98,8.5,8.0,8.25,8.39
+96,NAUM,D.,Mădălin-Constantin,CTI  CTI.X,8.96,8.0,8.5,8.25,8.39
+97,BĂDIC,I.,Cosmin,CTI  IS  IS.X  CTI.X,7.9,9.0,8.0,8.5,8.38
+98,PANĂ,C.,Bogdan-Mihai,CTI  IS,7.88,8.5,8.5,8.5,8.37
+99,EHIMOV,G.,Adelina-Elena,IS  CTI  IS.X,8.83,9.0,7.5,8.25,8.36
+100,RADU,D.,Dragoș-Alexandru,CTI  IS,8.83,8.5,8.0,8.25,8.36
+101,DARWISH,A.K.,Iosef,CTI  IS  CTI.X  IS.X,8.78,9.0,7.5,8.25,8.35
+102,PÎNZARU,M.,Maria-Minodora,CTI  IS,8.78,8.5,8.0,8.25,8.35
+103,TARBĂ,D.,Nicolae,CTI  IS,8.78,9.0,7.5,8.25,8.35
+104,MARCU,I.,Radu-Victor,IS,8.75,8.5,8.0,8.25,8.35
+105,MUSCALU,N.C.,Ștefan-Gabriel,CTI  IS  CTI.X  IS.X,8.75,8.5,8.0,8.25,8.35
+106,STANCIU,N.F.,Larisa-Ioana,IS  CTI  IS.X  CTI.X,8.75,8.5,8.0,8.25,8.35
+107,MITROI,M.M.,Mihai-Andrei,IS  CTI  IS.X  CTI.X,7.7,8.5,8.5,8.5,8.34
+108,CIOBOTEA,G.,Radu-Ilie-Gabriel,CTI  IS,8.7,8.5,8.0,8.25,8.34
+109,ȘTEFAN,I.B.,Ionuț-Daniel,CTI  IS  CTI.X  IS.X,8.7,9.0,7.5,8.25,8.34
+110,BRĂNESCU,V.,Filofteia-Lavinia,CTI  IS  CTI.X  IS.X,9.73,9.0,7.0,8.0,8.34
+111,CHIRIAC,F.,Alin,IS  CTI  IS.X  CTI.X,8.69,8.5,8.0,8.25,8.33
+112,BALAURE,P.C.,Ioana-Cătălina,CTI  IS  CTI.X  IS.X,8.68,8.5,8.0,8.25,8.33
+113,DEMETRESCU,O.,Victor-Mihai,CTI  IS  CTI.X  IS.X,8.68,8.5,8.0,8.25,8.33
+114,CĂNEA,F.,Octavian-Eugen,IS  IS.X,7.61,9.0,8.0,8.5,8.32
+115,DUMITRESCU,A.M.,Florin,CTI  IS  CTI.X  IS.X,8.63,9.0,7.5,8.25,8.32
+116,ȘTEFAN,Gh.,Ionuț,IS  IS.X  CTI  CTI.X,8.63,8.0,8.5,8.25,8.32
+117,PETRICĂ,I.,Elena-Ioana,CTI  IS  CTI.X,8.61,9.0,7.5,8.25,8.32
+118,BARBĂLATĂ,S.I.,Denis-Bogdan,CTI  IS,9.6,8.5,7.5,8.0,8.32
+119,IONAȘCU,C.,Elena-Patricia,CTI  IS,9.6,9.5,6.5,8.0,8.32
+120,MIHALCEA,P.,Nicoleta-Cristina,IS  CTI  IS.X,7.58,8.5,8.5,8.5,8.31
+121,SĂNDICĂ,I.,Daniela-Cosmina,CTI  IS  CTI.X,8.58,8.5,8.0,8.25,8.31
+122,NEAGU,L.,Andrei-Mihail,CTI  IS  CTI.X  IS.X,7.53,8.5,8.5,8.5,8.3
+123,MELINTE,I.O.,Răzvan,CTI  IS,7.5,8.5,8.5,8.5,8.3
+124,VORNICU,D.,Dan-Claudiu,CTI  IS  CTI.X  IS.X,9.51,9.0,7.0,8.0,8.3
+125,ATĂNĂSOAE,P.,Iulian,CTI  CTI.X  IS,8.48,8.5,8.0,8.25,8.29
+126,CONSTANTINES CU,S.,Sergiu,CTI  CTI.X  IS  IS.X,8.45,9.0,7.5,8.25,8.29
+127,POPA,R.C.,Andrei,CTI  CTI.X  IS  IS.X,8.45,9.0,7.5,8.25,8.29
+128,NEAGU,M.,Andrei,CTI  IS  CTI.X  IS.X,8.38,8.5,8.0,8.25,8.27
+129,POPA,V.,Sabin-Ioan,CTI  CTI.X  IS  IS.X,9.28,8.5,7.5,8.0,8.25
+130,BOACĂ,D.C.,Călin,CTI  IS,8.16,9.0,7.5,8.25,8.23
+131,DODAN,A.,Andrei-Bogdan,CTI  IS  CTI.X  IS.X,9.15,8.5,7.5,8.0,8.23
+132,POPA,J.R.,Justinian-Robert,CTI  IS  CTI.X  IS.X,9.15,9.0,7.0,8.0,8.23
+133,NEGOIȚĂ,S.V.,Alexandru-Cristian,IS  CTI  IS.X  CTI.X,7.1,8.5,8.5,8.5,8.22
+134,ROPOTICĂ,Gh.,Tudoriţa,CTI  IS,8.13,8.0,8.5,8.25,8.22
+135,CERNĂIANU,O.,Matei,CTI  IS  CTI.X  IS.X,8.11,8.5,8.0,8.25,8.22
+136,SĂVESCU,S.,Bogdan-Constantin,CTI  IS  CTI.X  IS.X,9.11,8.5,7.5,8.0,8.22
+137,PLĂIAȘU,Gh.,Mihai,CTI  IS,8.06,8.5,8.0,8.25,8.21
+138,HOTAR,G.,Cătălin-George,CTI  CTI.X  IS  IS.X,8.0,8.5,8.0,8.25,8.2
+139,GOGA,V.,Robert,IS  CTI,7.9,9.5,7.0,8.25,8.18
+140,CONSTANTIN,Ș.,Florin-Ioan,CTI  IS,8.91,8.5,7.5,8.0,8.18
+141,CIOACĂ,Gh.,Manuela-Georgiana,CTI  CTI.X  IS  IS.X,8.9,8.5,7.5,8.0,8.18
+142,PÎRCĂLABU,V.D.,Liviu-Daniel,CTI  CTI.X  IS  IS.X,7.88,7.5,9.0,8.25,8.17
+143,TEIUȘANU,A.C.,Alexandru-Bogdan,CTI  CTI.X  IS  IS.X,8.88,8.5,7.5,8.0,8.17
+144,DOBROŢEANU,Gh.,Andreea,CTI  IS  CTI.X  IS.X,8.86,8.5,7.5,8.0,8.17
+145,SCĂRLĂTESCU,D.F.,Octavian,CTI  CTI.X  IS  IS.X,8.78,8.5,7.5,8.0,8.15
+146,LUȚĂ,C.,Bogdan-Cristian,CTI  IS,8.76,9.0,7.0,8.0,8.15
+147,ȚUGUI,V.,Adrian-Daniel,IS  IS.X  CTI  CTI.X,8.76,8.5,7.5,8.0,8.15
+148,VERNICA,I.,Teodor-Iulian,CTI  IS  CTI.X  IS.X,8.75,8.5,7.5,8.0,8.15
+149,TĂNASE,L.E.,Tiberiu-Florian,IS  CTI  IS.X  CTI.X,7.73,8.5,8.0,8.25,8.14
+150,MARCU,V.,Zamfir-Cosmin,CTI  IS,7.7,8.5,8.0,8.25,8.14
+151,OPRIȘAN,A.,Alexandru-Mihai,CTI  CTI.X  IS  IS.X,7.68,8.5,8.0,8.25,8.13
+152,STĂNICĂ,I.C.,George-Cosmin,CTI  IS  CTI.X  IS.X,8.68,9.0,7.0,8.0,8.13
+153,TURMAC,I.,Aurelian-Horia,CTI  IS  IS.X  CTI.X,8.66,8.5,7.5,8.0,8.13
+154,MATEI,D.,Eduard-Petrișor,CTI  IS  CTI.X  IS.X,9.65,9.0,6.5,7.75,8.13
+155,DUMITRU,C.,Vasile-Sorin,CTI  IS,6.63,8.5,8.5,8.5,8.12
+156,MANTA,Al.,Nicoleta,IS  IS.X,7.5,8.0,8.5,8.25,8.1
+157,CÎCIU,V.,Radu-Marian,IS  IS.X,9.51,9.0,6.5,7.75,8.1
+158,NICULA,A.,Florin-Cristinel,CTI  IS  CTI.X  IS.X,8.48,8.5,7.5,8.0,8.09
+159,SCHEPP,O.W.,Karl-Andreas,IS  CTI  IS.X  CTI.X,8.46,8.5,7.5,8.0,8.09
+160,MUEDIN,N.,Emin-Adrian,CTI  CTI.X  IS  IS.X,8.4,8.5,7.5,8.0,8.08
+161,TEME,L.,Marius,IS  IS.X  CTI  CTI.X,9.43,8.5,7.0,7.75,8.08
+162,LUNGU,M.,Claudiu-Ioan,CTI  IS  CTI.X  IS.X,9.4,9.0,6.5,7.75,8.08
+163,ZAHARIA,G.,Alexis-Valentin,IS  IS.X  CTI  CTI.X,9.4,8.5,7.0,7.75,8.08
+164,MITEA,F.,Andrei,CTI  CTI.X  IS  IS.X,8.38,9.0,7.0,8.0,8.07
+165,ZLATE,M.,Adrian,CTI  IS  CTI.X  IS.X,8.35,8.5,7.5,8.0,8.07
+166,HANGANU,V.,Cristian,CTI  IS  CTI.X  IS.X,7.33,9.0,7.5,8.25,8.06
+167,ZUGRĂVESCU,Gh.,Gabriel,CTI  IS  CTI.X,8.3,8.5,7.5,8.0,8.06
+168,TUDOR,M.,Adrian  -Ionuț,CTI  IS  CTI.X  IS.X,6.23,7.0,10.0,8.5,8.04
+169,BĂDESCU,M.C.,Alexandru-Ionuț,IS  CTI  CTI.X,7.21,8.0,8.5,8.25,8.04
+170,ISTRATE,R.,Radu-Georgian,CTI  CTI.X,8.15,9.0,7.0,8.0,8.03
+171,GĂBAN,O.I.,Ionuț-Ștefan,CTI  CTI.X  IS  IS.X,9.18,9.0,6.5,7.75,8.03
+172,GHEORGHE,D.,Daniel-Alexandru,CTI  IS  CTI.X  IS.X,8.1,9.0,7.0,8.0,8.02
+173,POPESCU,M.F.,Răzvan-Mihai,IS  CTI,8.05,7.5,8.5,8.0,8.01
+174,ORZAN,D.,Alexandru,CTI  CTI.X,8.01,8.0,8.0,8.0,8.0
+175,ZAMFIR,I.,Bogdan-Mihai,CTI  IS  CTI.X  IS.X,9.0,8.5,7.0,7.75,8.0
+176,ŞTEFAN,I.,Ioan-Alexandru,CTI  IS  CTI.X  IS.X,8.95,8.5,7.0,7.75,7.99
+177,STAN,A.,Gabriel-Vlăduţ,CTI  IS  CTI.X  IS.X,7.9,8.5,7.5,8.0,7.98
+178,COȘKUN,M.,Ibrahim,CTI  IS,8.9,8.5,7.0,7.75,7.98
+179,OLTEANU,R.N.,Vasile-Adrian,IS,7.86,7.5,8.5,8.0,7.97
+180,HEROIU,N.,Dragoș-Nicolae,IS  IS.X,8.88,8.5,7.0,7.75,7.97
+181,TĂNASE,C.,Arthur-Albert,IS  CTI  CTI.X  IS.X,7.83,8.5,7.5,8.0,7.96
+182,MARTIN,C.C.,Silviu-Gabriel,CTI  IS  CTI.X  IS.X,8.81,8.5,7.0,7.75,7.96
+183,ȚARCĂ,N.,Andrei,CTI  IS,8.8,9.0,6.5,7.75,7.96
+184,DOCAN,Al.L.,Robert-Alexandru,CTI  IS,7.76,7.5,8.5,8.0,7.95
+185,PAȘOL,P.,Andreea-Elena,IS,7.76,8.5,7.5,8.0,7.95
+186,BÎRCĂ,A.C.,Andreea,CTI  IS  CTI.X  IS.X,8.78,9.0,6.5,7.75,7.95
+187,POPA,M.,Andrei-Florin,IS  IS.X,8.76,8.5,7.0,7.75,7.95
+188,NECULĂESCU,N.,Theodor-Marcu,CTI  IS  CTI.X  IS.X,8.75,8.5,7.0,7.75,7.95
+189,STOENICĂ,T.,Veronica-Maria,CTI  CTI.X  IS  IS.X,8.70,9.0,6.5,7.75,7.94
+190,NEAGU,I.,Ionuț-Ghiocel,IS  IS.X,7.55,8.5,7.5,8.0,7.91
+191,CARAIMAN,C.E.,Andrei-Călin,CTI  IS  CTI.X  IS.X,8.55,9.0,6.5,7.75,7.91
+192,MUNTEAN,V.,Ștefan,CTI  CTI.X  IS  IS.X,8.53,8.0,7.5,7.75,7.9
+193,NOMOLOȘANU,M.,Cătălin-Tiberiu,CTI  IS,8.53,9.0,6.5,7.75,7.9
+194,CĂPRARU,D.O.,Ovidiu-Alexandru,CTI  IS  CTI.X  IS.X,8.46,9.0,6.5,7.75,7.89
+195,MUSTĂŢEA,S.,Sorina-Florentina,CTI  IS  CTI.X  IS.X,8.46,9.0,6.5,7.75,7.89
+196,UNGUREANU,J.,Jenică-Mihăiță,CTI  CTI.X  IS  IS.X,7.40,8.5,7.5,8.0,7.88
+197,SERCIU,M.,Ștefan-Marian,CTI  IS,9.41,9.0,6.0,7.5,7.88
+198,PATRICHE,Gh.,Alina-Claudia,CTI  IS  CTI.X  IS.X,8.33,9.0,6.5,7.75,7.86
+199,SIMICĂ,M.,Mihai-Cristian,IS  IS.X  CTI  CTI.X,7.10,8.5,7.5,8.0,7.82
+200,JOGA,L.C.,Petruț-Daniel,CTI  CTI.X  IS  IS.X,8.06,9.0,6.5,7.75,7.81
+201,PISALTU,C.,Elena-Bianca,CTI  IS  CTI.X  IS.X,8.03,9.0,6.5,7.75,7.8
+202,NICOLA,Gh.R.,Ioan-Mihai,IS  CTI  IS.X  CTI.X,7.91,8.0,7.5,7.75,7.78
+203,IONIȚĂ,A.,Adrian,CTI  IS  CTI.X  IS.X,7.86,7.5,8.0,7.75,7.77
+204,ȘARGU,I.,Irina,CTI  IS  CTI.X,7.83,8.5,7.0,7.75,7.76
+205,ANDREI,C.,Denisa-Elena,CTI  IS  CTI.X  IS.X,-,8.5,7.0,7.75,7.75
+206,POPA,I.,George-Cătălin,IS  CTI  IS.X  CTI.X,7.60,9.0,6.5,7.75,7.72
+207,STANCU,C.,Emanuel,IS  CTI  CTI.X  IS.X,8.63,8.5,6.5,7.5,7.72
+208,MUSCALU,F.,Andrei-Tiberiu-Vasile,IS  CTI  CTI.X  IS.X,7.58,8.5,7.0,7.75,7.71
+209,POPA,I.I.,Mădălina-Elena,CTI  IS,8.50,8.5,6.5,7.5,7.7
+210,BERCEA,L.,Camelia-Georgiana,CTI  CTI.X,6.45,7.5,8.5,8.0,7.69
+211,CIOBANU,L.,Sebastian-Valeriu,IS  CTI  IS.X  CTI.X,8.41,8.0,7.0,7.5,7.68
+212,LIȚĂ,I.,Alexandru,IS  IS.X,6.38,8.5,7.5,8.0,7.67
+213,BUDU,A.,Roxana-Georgiana,CTI  IS,8.33,8.5,6.5,7.5,7.66
+214,IONIȚĂ,M.,Alexandru-Constantin,CTI  IS  CTI.X,8.26,8.0,7.0,7.5,7.65
+215,DUMITRACHE,A.,Mihai-Alexandru,IS  CTI  IS.X  CTI.X,7.11,8.5,7.0,7.75,7.62
+216,HÂRCEANU,V.,Anca-Adela,CTI  CTI.X  IS  IS.X,8.03,8.5,6.5,7.5,7.6
+217,BUCUR,I.,Răzvan,CTI  CTI.X  IS  IS.X,8.00,9.0,6.0,7.5,7.6
+218,UȘURELU,C.,Daniel-Constantin,CTI  CTI.X  IS  IS.X,8.83,9.0,5.5,7.25,7.56
+219,FEREȘTEANU,M.,Mariana-Andreea,IS.X  CTI.X,8.81,9.0,5.5,7.25,7.56
+220,BULARCĂ,I.,Mariana-Luciana,CTI  IS  CTI.X  IS.X,7.71,8.5,6.5,7.5,7.54
+221,ENE,C.,Mihail-Roberto,IS  IS.X  CTI.X  CTI,7.71,8.0,7.0,7.5,7.54
+222,MĂRCUȚ,A.,Corina-Elena,CTI  IS,7.48,9.0,6.0,7.5,7.49
+223,CHIRIAC,L.,Victor-Daniel,CTI  CTI.X  IS  IS.X,8.33,9.0,5.5,7.25,7.46
+224,STANCU,C.,Cosmin-Adrian,CTI  IS  CTI.X  IS.X,8.13,8.5,6.0,7.25,7.42
+225,FRÎNCU,M.,Alexandru,CTI  IS,9.11,8.0,6.0,7.0,7.42
+226,BĂDILĂ,M.,Laurențiu-Augustin,CTI  IS,8.06,8.5,6.0,7.25,7.41
+227,BULUBAȘA,M.,Lavinia-Elena,CTI  CTI.X,9.05,9.5,4.5,7.0,7.41
+228,FIRICĂ,M.V.,Alexandra-Beatrice,CTI  CTI.X  IS,9.03,8.0,6.0,7.0,7.4
+229,DRĂGHICIU,V.,Cristian,CTI  IS,6.98,9.0,6.0,7.5,7.39
+230,STANCU,I.C.,Răzvan-Ionuț,CTI  CTI.X  IS  IS.X,7.83,8.5,6.0,7.25,7.36
+231,NICOLAE,M.,Ionuț,IS  CTI,7.75,8.5,6.0,7.25,7.35
+232,SAVU,D.,Alexandru-Mihai,IS  IS.X,6.71,8.5,6.5,7.5,7.34
+233,DOBJANSKI,L.,Adrian,CTI  IS  CTI.X  IS.X,8.55,8.5,5.5,7.0,7.31
+234,BUTACU,A.,Gabriel-Ciprian,CTI  IS  CTI.X  IS.X,8.51,7.0,7.0,7.0,7.3
+235,POPA,A.,Maria-Cristina,CTI  IS,8.38,8.0,6.0,7.0,7.27
+236,POPESCU,I.V.,Marius-Cristian,CTI  IS,7.25,8.5,6.0,7.25,7.25
+237,ȚILICĂ,C.,Gabriel,CTI  CTI.X  IS  IS.X,8.06,8.5,5.5,7.0,7.21
+238,MANEA,N.C.,Robert,CTI  IS  CTI.X,9.06,8.5,5.0,6.75,7.21
+239,ION,C.,Gabriela-Cristina,IS  CTI  IS.X  CTI.X,8.03,8.0,6.0,7.0,7.2
+240,ROMANOV,D.C.,Rareș-Mihai,IS  CTI  IS.X  CTI.X,8.95,8.0,5.5,6.75,7.19
+241,MIHAI,G.A.,Robert-Cătălin,IS  CTI  IS.X  CTI.X,6.91,8.5,6.0,7.25,7.18
+242,DUȚESCU,N.Ș.,Răzvan-Alexandru,CTI  CTI.X  IS  IS.X,8.9,8.5,5.0,6.75,7.18
+243,STERIAN,G.,Adrian,CTI  IS  CTI.X  IS.X,6.81,8.0,6.5,7.25,7.16
+244,COCENEANU,A.Gh.,Alexandru-Florentin,CTI  IS  CTI.X  IS.X,8.78,7.5,6.0,6.75,7.15
+245,BĂRBULESCU,Gh.T.,Mihai-Eugen,CTI  IS  CTI.X  IS.X,7.63,7.5,6.5,7.0,7.12
+246,VINERSAR,N.T.,Mihai-Lucian,IS  CTI  IS.X  CTI.X,7.61,5.5,8.5,7.0,7.12
+247,ALEXANDRU,M.G.,Bogdan-Ionuț,CTI  CTI.X,8.61,8.0,5.5,6.75,7.12
+248,BARAC,V.,Tudor,CTI  IS,6.41,8.0,6.5,7.25,7.08
+249,NISTORESCU,C.,Silviu,CTI  CTI.X  IS  IS.X,7.28,8.5,5.5,7.0,7.05
+250,ŢURA,I.I.,Sebastian-Ionel,CTI  IS  CTI.X  IS.X,7.25,7.5,6.5,7.0,7.05
+251,DRĂGOI,V.,Marius-Gabriel,CTI  IS  CTI.X  IS.X,8.26,8.5,5.0,6.75,7.05
+252,OLTEANU,Gh.,Andrei-Cristian,CTI  IS,8.15,9.0,4.5,6.75,7.03
+253,ROBU,F.,Claudiu-Ștefan,CTI  IS,7.03,9.0,5.0,7.0,7.0
+254,NIȚU,C.,Alexandru-Ionuţ,CTI  CTI.X  IS  IS.X,9.03,9.0,4.0,6.5,7.0
+255,NICULAE,Gh.,Mihai-Claudiu,CTI  IS,7.63,8.5,5.0,6.75,6.92
+256,VOICU,N.,Miruna-Huguette,CTI  CTI.X  IS  IS.X,9.4,7.5,5.0,6.25,6.88
+257,LUNGU,F.C.,Virgil-Gabriel,CTI  IS  CTI.X  IS.X,7.25,8.5,5.0,6.75,6.85
+258,MIHAI,A.I.,Cosmin-Ionuț,CTI  IS  CTI.X  IS.X,7.16,8.0,5.5,6.75,6.83
+259,GHERGHIŞAN,D.,Florina-Mădălina,CTI  IS,9.13,8.0,4.5,6.25,6.82
+260,DARIE,C.,Cristina,CTI  IS  CTI.X  IS.X,6.9,7.0,6.5,6.75,6.78
+261,DEDU,D.Ș.,Narcis  -  Petre,CTI  IS,7.85,9.0,4.0,6.5,6.77
+262,MACOVEI,Gh.,David,IS  CTI  IS.X  CTI.X,7.73,8.5,4.5,6.5,6.74
+263,NECULA,I.A.,Radu-Ioan,IS  IS.X  CTI  CTI.X,6.5,7.5,6.0,6.75,6.7
+264,GRAMA,V.,Elena-Claudia,CTI  IS  CTI.X  IS.X,6.11,8.0,5.5,6.75,6.62
+265,CHIȚU,N.,Florentin-Eusebio,CTI  IS  CTI.X  IS.X,8.06,7.0,5.5,6.25,6.61
+266,POPA,M.,Alexandra-Lavinia,IS  IS.X,7.9,8.5,4.0,6.25,6.58
+267,PĂUN,N.,Jeaninne-Gabrielle,IS  CTI,8.9,8.5,3.5,6.0,6.58
+268,ILIE,D.D.,Cătălin-Florin,CTI  IS,6.8,7.5,5.5,6.5,6.56
+269,TACU,Gh.,Marius-Georgian,CTI  IS,6.76,8.0,5.0,6.5,6.55
+270,STAN,T.,Alexandru-Cristian,CTI  IS  CTI.X  IS.X,7.68,7.0,5.5,6.25,6.53
+271,SZOKE,L.,Peter-Laszlo,CTI  IS  CTI.X  IS.X,7.55,8.5,4.0,6.25,6.51
+272,MADAR,N.,Nicuşor-Florin,CTI  CTI.X  IS  IS.X,7.1,8.0,4.5,6.25,6.42
+273,LACZI,Ș.,Nicolae,CTI  IS,8.08,6.5,5.5,6.0,6.41
+274,SPOIALĂ,E.,Andrei,CTI  CTI.X  IS  IS.X,6.93,6.5,6.0,6.25,6.38
+275,NĂSTASE,P.,Florin-Marian,CTI  IS,7.7,7.0,5.0,6.0,6.34
+276,ROȘU,P.,Emil-Valentin-Ionuț,CTI  IS  CTI.X  IS.X,8.68,6.5,5.0,5.75,6.33
+277,BĂDULESCU,N.,Constantin-Vlăduț- Nicolae,CTI  IS  CTI.X  IS.X,8.43,8.0,3.5,5.75,6.28
+278,STANCU,V.,Mihăiță,CTI  IS  CTI.X  IS.X,6.36,6.5,6.0,6.25,6.27
+279,IVAȘCU,C.,Adrian,CTI  IS  CTI.X  IS.X,6.21,8.5,4.0,6.25,6.24
+280,FĂSUI,D.,Dan-Andrei,CTI  IS  CTI.X  IS.X,8.1,7.0,4.5,5.75,6.22
+281,PREOTEASA,V.,Radu-Valentin,CTI  IS  CTI.X  IS.X,7.06,7.0,5.0,6.0,6.21
+282,MOCANU,C.C.,Luiza-Mihaela,CTI  IS,8.03,7.0,4.5,5.75,6.2
+283,VOICU,A.,Alexandru,CTI  IS  CTI.X  IS.X,8.01,8.5,3.0,5.75,6.2
+284,VLAD,C.,Cosmin-Cătălin,IS  CTI,6.9,6.0,6.0,6.0,6.18
+285,GEMĂNAȘ,T.,Andrei,CTI  CTI.X  IS  IS.X,7.91,7.5,4.0,5.75,6.18
+286,MIHAI,I.,Marius-Gabriel,CTI  IS  CTI.X  IS.X,7.91,8.5,3.0,5.75,6.18
+287,VULPE,V.V.,George-Andrei,CTI  CTI.X  IS  IS.X,6.88,8.0,4.0,6.0,6.17
+288,DUMITRU,Z.A.,Remus-Florentin,CTI  IS,7.73,8.5,3.0,5.75,6.14
+289,CERBU,D.,Ana-Maria-Victoria,IS  IS.X  CTI  CTI.X,7.63,7.0,4.5,5.75,6.12
+290,VÎNTU,P.,Ovidiu,CTI  IS  CTI.X  IS.X,7.18,7.0,4.5,5.75,6.03
+291,MUȘAT,V.,Alexandra-Anamaria,IS  CTI  IS.X  CTI.X,8.08,8.5,2.5,5.5,6.01
+292,PAVĂL,D.,Andra-Mihaela,CTI  IS,9.03,8.0,2.5,5.25,6.0
+293,ROȘCULESCU,M.,Alin-Mihai,IS.X  IS  CTI  CTI.X,6.91,7.0,4.5,5.75,5.98
+294,DĂNCESCU- PANĂ,M.,Răzvan-Marius,CTI.X,8.85,8.0,2.5,5.25,5.97
+295,BODNARIUC,S.D.,Adrian-Daniel,CTI  CTI.X  IS  IS.X,7.7,8.5,2.5,5.5,5.94
+296,CĂZĂNARU,I.I.,Florin-Alexandru,CTI  CTI.X  IS  IS.X,7.65,8.5,2.5,5.5,5.93
+297,ION,M.,Alexandru-Tinel,CTI  IS,7.56,8.5,2.5,5.5,5.91
+298,BĂDIN,Gh.,Rică,CTI  IS,7.16,8.5,2.5,5.5,5.83
+299,MOISI,M.,Remus-Daniel,CTI  CTI.X,6.11,8.0,3.5,5.75,5.82
+300,BÎLDEA,T.,George-Nicolaus,IS  CTI,7.06,7.5,3.5,5.5,5.81
+301,BELEȚ,N.,Alin-Nicolae,CTI  IS  CTI.X  IS.X,7.7,7.5,3.0,5.25,5.74
+302,OLARIU,M.,Andrei,CTI  IS  CTI.X  IS.X,7.43,7.0,3.5,5.25,5.68
+303,MĂRCULESCU,Gh.,Adrian-Paulo,CTI  IS  CTI.X  IS.X,6.21,7.5,3.5,5.5,5.64
+304,RADU,D.,Ciprian-Ionuț,CTI  IS  CTI.X  IS.X,7.08,6.5,4.0,5.25,5.61
+305,STOICA,V.,Mircea-Valentin,CTI  CTI.X,6.0,8.0,3.0,5.5,5.6
+306,BĂLAN,D.,Cezar-Cristian,CTI  CTI.X,7.78,7.5,2.5,5.0,5.55
+307,GRUESCU,I.,Ionuţ-Daniel,CTI  IS,7.76,7.0,3.0,5.0,5.55
+308,NEDELCU,N.,Alexandru-Vasile,CTI  IS  CTI.X  IS.X,6.96,6.5,3.5,5.0,5.39
+309,BOLDEIU,A.,Petrică-Cristian,CTI  IS  CTI.X  IS.X,6.6,6.0,4.0,5.0,5.32
+310,DANU,A.G.,Tudor-Cosmin,CTI  IS  CTI.X  IS.X,6.48,6.5,3.5,5.0,5.29
+probe,crt.,BAC,P1,P2,GEN,,,,
+6.50,1,APETROAEI,I.,Raol-Tibi,CTI  IS  CTI.X  IS.X,7.26,2.00,4.25,
+8.50,2,ASIMIONESEI,C.,Flavia,CTI  IS  CTI.X  IS.X,9.13,0.00,4.25,
+6.50,3,BARAC,C.,Ionuț-Marius,IS  IS.X  CTI  CTI.X,7.81,2.00,4.25,
+8.00,4,BRĂTULESCU,I.,Beniamin,IS  CTI  IS.X  CTI.X,8.00,1.50,4.75,
+0.00,5,CHELĂREASA,T.,Andrei-Marian,CTI  CTI.X  IS  IS.X,8.85,0.00,0.00,
+0.00,6,CHIRCU,R.M.,Bogdan-Marian,CTI  IS  CTI.X  IS.X,8.33,0.00,0.00,
+8.50,7,CIOLACU,Gh.,Iulian-Teodor,CTI  IS,9.36,0.00,4.25,
+7.50,8,CIUCUR,N.,Andrei,CTI  CTI.X  IS  IS.X,7.25,0.00,3.75,
+7.50,9,COBAN,R.Al.,Alexandru,CTI  CTI.X  IS  IS.X,8.81,0.00,3.75,
+0.00,10,CONSTANTIN,F.L.,Alexandru-George,CTI  IS  CTI.X  IS.X,8.31,0.00,0.00,
+0.00,11,CONSTANTIN,V.,Alexandru-Răzvan,IS  CTI  IS.X  CTI.X,7.13,4.00,2.00,
+8.00,12,COȘĂREANU,P.,Paul-Lucian,CTI  CTI.X  IS  IS.X,7.70,0.00,4.00,
+0.00,13,CRIȘCOV,S.,George,IS  CTI  IS.X,6.58,0.00,0.00,
+0.00,14,FLORESCU,M.D.,Constantin-Emanuel,CTI  IS  CTI.X  IS.X,9.20,0.00,0.00,
+0.00,15,FRON,C.,George-Cosmin,CTI  IS  CTI.X  IS.X,7.43,0.00,0.00,
+6.00,16,GHEORGHE,I.,Robert-Daniel,CTI  IS,8.30,1.50,3.75,
+0.00,17,GHIȚĂ,S.,Adrian,CTI  IS  CTI.X  IS.X,8.48,0.00,0.00,
+5.00,18,GLIŢEA,C.,Bogdan,CTI  IS,6.90,2.50,3.75,
+0.00,19,GOGOȚ,F.,Marian-Mircea,CTI  IS  CTI.X  IS.X,6.65,0.00,0.00,
+3.50,20,ICHIM,V.,Emanuel-Geani,CTI  IS  CTI.X  IS.X,6.45,0.00,1.75,
+6.00,21,IGNAT,A.,Alexandru-Nicușor,CTI  IS  CTI.X  IS.X,6.05,3.00,4.50,
+5.00,22,IOSIF,Gh.,Andrei-Daniel,CTI  IS,6.41,2.00,3.50,
+6.00,23,LUCHIAN,C.,Ciprian,CTI  CTI.X  IS  IS.X,7.43,3.00,4.50,
+7.00,24,LUNGU,D.G.,Ioana-Teodora,CTI  CTI.X  IS  IS.X,9.03,0.00,3.50,
+7.00,25,MARIN,Al.,Ina-Florina,CTI  IS,7.95,2.00,4.50,
+0.00,26,MILU,R.,Mihai-Alexandru,IS  CTI,7.96,0.00,0.00,
+8.50,27,MORAR,C.V.,Răzvan-Gabriel,CTI  IS  CTI.X  IS.X,8.90,0.00,4.25,
+7.00,28,NAE,C.B.,Sergiu-Teodor,CTI  CTI.X  IS  IS.X,6.41,2.50,4.75,
+5.00,29,NAE,G.,Florin-Eugen,CTI  IS  CTI.X  IS.X,6.35,4.00,4.50,
+0.00,30,NEAGU,S.,Alexandru-Marian,CTI  IS,6.18,0.00,0.00,
+0.00,31,ORBAN,V.N.,Radu-Nicolae,CTI  CTI.X,8.50,0.00,0.00,
+6.50,32,PANĂ,N.,Claudiu-Nicolae,CTI  IS  CTI.X  IS.X,6.01,2.50,4.50,
+0.00,33,POPA,M.G.,Mădălin-Iulian,CTI,6.81,0.00,0.00,
+34,POPOVICI,M.D.,Mihnea-Vlad,IS  CTI,8.85,0.0,0.0,0.0,
+35,SEZER,B.,Bulent,CTI  CTI.X  IS  IS.X,8.05,7.0,2.5,4.75,
+36,SMĂRĂNDESC U,I.,Ioan-Valeriu,CTI  IS  CTI.X  IS.X,7.01,7.5,1.5,4.5,
+37,STOICA,I.,Adrian,CTI  CTI.X,6.0,0.0,0.0,0.0,
+38,TRANDAFIRES CU,C.,Adrian,CTI  CTI.X,7.51,0.0,0.0,0.0,
+39,TUINEA,I.,Robert-Alexandru,CTI  IS  CTI.X  IS.X,7.1,0.0,0.0,0.0,
+40,VASILE,M.,Loredana-Georgiana,IS  IS.X  CTI  CTI.X,6.33,4.5,0.0,2.25,
+41,VÎLCEA,I.,Laurențiu-Mihai,CTI  CTI.X  IS  IS.X,6.4,5.0,3.0,4.0,

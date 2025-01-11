@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recommendation Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/result.css') }}">
+</head>
+<body>
+    <h1>Recommended Field of Study:</h1>
+    <h2><i>{{ recommendation }}</b></i></h2>
+    <h2>Detailed Scores:</h2>
+    <ul>
+        {% for field, score in scores.items() %}
+            <li>{{ field }}: {{ "%.2f"|format(score) }}</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Suggested Universities:</h2>
+    <ul>
+        {% for uni in universities %}
+            <li><a href="{{ uni['Link'] }}" target="_blank">{{ uni['Title'] }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <a href="{{ url_for('index') }}">Back to Form</a>
+</body>
+</html>
