@@ -4,54 +4,185 @@
     <meta charset="UTF-8">
     <title>University Recommendation System</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+
+        /* Container that holds the form & results side by side */
+        .top-container {
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+            align-items: stretch; /* Ensures both columns stretch to the same height */
+            margin-bottom: 20px;  /* Spacing below so we can place charts container below */
+        }
+
+        /* The form and results share similar styling for consistency */
+        .form-container,
+        .results-container {
+            background-color: #ffffff;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .form-container {
+            width: 30%; 
+        }
+
+        .results-container {
+            width: 68%; 
+        }
+
+        /* Full-width container for charts below the form & results */
+        .charts-container {
+            width: 100%;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        /* Basic styling for form labels and inputs */
+        .form-container form label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        .form-container form input[type="text"],
+        .form-container form input[type="number"] {
+            width: 100%;
+            padding: 6px;
+            margin: 5px 0 10px;
+            box-sizing: border-box;
+        }
+        .form-container form input[type="submit"] {
+            margin-top: 10px;
+            padding: 10px;
+            cursor: pointer;
+            background-color: #4285f4;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+        }
+
+        /* Just to ensure images don’t overflow */
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
 </head>
+
 <body>
-    <div class="form-container">
-        <h1>University Recommendation</h1>
-         <h1>TODO: after recommendation, pull relevant uni from ranked uni.csv</h1>
-         <h1>TODO: after recommendation, show 2 graphs relevant to the result</h1>
-         <h1>TODO: review all graphs/ML results</h1>
-         <h1>TODO: fix recommendation logic - profiles, subjects, weights</h1>
-        <h4>Input your Baccalaureate Exam results:</h4>
-        <form method="POST" action="/">
-            <label>Subject EA:</label>
-            <input type="text" name="subiect_ea" value="{{ request.form.get('subiect_ea', '') }}" required>
+    <h1>University Recommendation System</h1>
 
-            <label>Grade EA:</label>
-            <input type="number" step="0.01" name="nota_finala_ea" value="{{ request.form.get('nota_finala_ea', '') }}" required>
+    <!-- Top container holds the form and results side by side -->
+    <div class="top-container">
+        <!-- Form Section -->
+        <div class="form-container">
+            <h3>Enter your BAC results</h3>
+            <form action="/" method="POST">
+                <label>City:</label>
+                <input type="text" name="city" value="{{ city or 'Bucharest' }}" />
+        
+                <label>Profil:</label>
+                <input type="text" name="Profil" value="{{ profil or 'Real' }}" />
+        
+                <label>Specializare:</label>
+                <input type="text" name="Specializare" value="{{ specializare or 'Matematica-Informatica' }}" />
+        
+                <label>Subiect ea (e.g. Limba română (REAL)):</label>
+                <input type="text" name="Subiect_ea" value="{{ subiect_ea or 'Limba română (REAL)' }}" />
+        
+                <label>Subiect ec (e.g. Matematică MATE-INFO):</label>
+                <input type="text" name="Subiect_ec" value="{{ subiect_ec or 'Matematică MATE-INFO' }}" />
+        
+                <label>Subiect ed (e.g. Fizică TEO):</label>
+                <input type="text" name="Subiect_ed" value="{{ subiect_ed or 'Informatică MI C/C++' }}" />
+        
+                <label>NOTA_FINALA_EA:</label>
+                <input type="number" step="0.01" name="NOTA_FINALA_EA" value="{{ nota_finala_ea or '7.01' }}" />
+        
+                <label>NOTA_FINALA_EC:</label>
+                <input type="number" step="0.01" name="NOTA_FINALA_EC" value="{{ nota_finala_ec or '9.25' }}" />
+        
+                <label>NOTA_FINALA_ED:</label>
+                <input type="number" step="0.01" name="NOTA_FINALA_ED" value="{{ nota_finala_ed or '9.5' }}" />
+        
+                <label>PUNCTAJ DIGITALE:</label>
+                <input type="number" step="0.01" name="PUNCTAJ_DIGITALE" value="{{ punctaj_digitale or '8.2' }}" />
+        
+                <label>ORAL_PMO:</label>
+                <input type="number" step="0.01" name="ORAL_PMO" value="{{ oral_pmo or '9.25' }}" />
+        
+                <label>Medie:</label>
+                <input type="number" step="0.01" name="Medie" value="{{ medie or '8.58' }}" />
+        
+                <input type="submit" value="Get Recommendation" />
+            </form>
+        </div>
 
-            <label>Subject EC:</label>
-            <input type="text" name="subiect_ec" value="{{ request.form.get('subiect_ec', '') }}" required>
+        <!-- Results Section -->
+        <div class="results-container">
+            {% if recommendation %}
+            <h2>Recommended Field of Study: {{ recommendation }}</h2>
 
-            <label>Grade EC:</label>
-            <input type="number" step="0.01" name="nota_finala_ec" value="{{ request.form.get('nota_finala_ec', '') }}" required>
+            <h3>Detailed Scores:</h3>
+            <ul>mai
+                {% for field, score in sorted_scores %}
+                <li>{{ field }}: {{ "%.2f"|format(score) }}</li>
+                {% endfor %}
+            </ul>
 
-            <label>Subject ED:</label>
-            <input type="text" name="subiect_ed" value="{{ request.form.get('subiect_ed', '') }}" required>
+            <h3>Universities near {{ city }} that might interest you:</h3>
+            <ul>
+                {% if universities %}
+                {% for uni in universities %}
+                <li><a href="{{ uni.Link }}" target="_blank">{{ uni.Title }}</a></li>
+                {% endfor %}
+                {% else %}
+                <li>No universities found or SERP API key missing.</li>
+                {% endif %}
+            </ul>
 
-            <label>Grade ED:</label>
-            <input type="number" step="0.01" name="nota_finala_ed" value="{{ request.form.get('nota_finala_ed', '') }}" required>
+            <h3>Admission Data Analysis for {{ recommendation }}</h3>
+            <pre>{{ comparison_text }}</pre>
+            {% else %}
+            <h3>Your recommendation will appear here after submission.</h3>
+            {% endif %}
+        </div>
+    </div>
 
-            <label>Digital Skills Score:</label>
-            <input type="number" step="0.01" name="punctaj_digitale" value="{{ request.form.get('punctaj_digitale', '') }}" required>
+    <!-- Charts take the full width below the two columns above -->
+    <div class="charts-container">
+        {% if recommendation %}
+        <h2>Relevant Charts for your results:</h2>
 
-            <label>Oral Communication Grade:</label>
-            <input type="number" step="0.01" name="oral_pmo" value="{{ request.form.get('oral_pmo', '') }}" required>
+        {% if radar_img %}
+        <h3>Radar Chart: User vs. Dataset Average</h3>
+        <img src="data:image/png;base64,{{ radar_img }}" alt="Radar Chart">
+        {% endif %}
 
-            <label>Overall Grade:</label>
-            <input type="number" step="0.01" name="medie" value="{{ request.form.get('medie', '') }}" required>
+        {% if new_chart_img %}
+        <h3>Admission Score Distribution</h3>
+        <img src="data:image/png;base64,{{ new_chart_img }}" alt="Admission Chart">
+        {% endif %}
 
-            <label>Profile:</label>
-            <input type="text" name="profil" value="{{ request.form.get('profil', '') }}" required>
-
-            <label>Specialization:</label>
-            <input type="text" name="specializare" value="{{ request.form.get('specializare', '') }}" required>
-
-            <label>City:</label>
-            <input type="text" name="city" value="{{ request.form.get('city', '') }}" required>
-
-            <button type="submit">Get Recommendation</button>
-        </form>
+        {% if histogram_img %}
+        <h3>Score Distribution Histogram</h3>
+        <img src="data:image/png;base64,{{ histogram_img }}" alt="Histogram">
+        {% endif %}
+        {% else %}
+        <h3>No charts to show yet.</h3>
+        {% endif %}
     </div>
 </body>
 </html>

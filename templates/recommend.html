@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendation Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/recommend.css') }}">
+</head>
+<body>
+    <h2>Recommended Field of Study: {{ recommendation }}</h2>
+
+    <h3>Detailed Scores:</h3>
+    <ul>
+    {% for field, score in sorted_scores %}
+        <li>{{ field }}: {{ "%.2f"|format(score) }}</li>
+    {% endfor %}
+    </ul>
+
+    <h3>Universities near {{ city }} that might interest you:</h3>
+    <ul>
+    {% if universities %}
+        {% for uni in universities %}
+            <li><a href="{{ uni.Link }}">{{ uni.Title }}</a></li>
+        {% endfor %}
+    {% else %}
+        <li>No universities found or SERP API key missing.</li>
+    {% endif %}
+    </ul>
+
+    <h3>Admission Data Analysis for {{ recommendation }}</h3>
+    <pre>{{ comparison_text }}</pre>
+
+        <!-- RADAR CHART -->
+        {% if radar_img %}
+        
+        <img 
+          src="data:image/png;base64,{{ radar_img }}" 
+          alt="Radar Chart"
+          style="max-width:600px;"
+        />
+    {% endif %}
+
+    <!-- analyze_and_visualize -->
+    {% if new_chart_img %}
+        <img 
+          src="data:image/png;base64,{{ new_chart_img }}" 
+          alt="Chart from analyze_and_visualize" 
+          style="max-width:600px;"
+        />
+    {% endif %}
+
+    <!-- HISTOGRAM -->
+    {% if histogram_img %}
+    <h3>Radar Chart: User vs. Dataset Average</h3>
+        <img 
+          src="data:image/png;base64,{{ histogram_img }}" 
+          alt="Histogram" 
+          style="max-width:600px;"
+        />
+    {% endif %}
+
+
+    <br><br>
+    <br><br>
+    <a href="/">Go back</a>
+</body>
+</html>

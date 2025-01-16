@@ -13,9 +13,9 @@ body {
     padding: 30px 40px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 400px;
+    /* width: 400px; */
     position: relative;
-    max-width: fit-content;
+    /* max-width: fit-content; */
     margin-left: auto;
     margin-right: auto;
 
@@ -56,5 +56,56 @@ button {
 }
 
 button:hover {
+    background-color: #0056b3;
+}
+
+/* Score and University Lists */
+ul {
+    list-style-type: none;
+    padding: 0;
+    width: 60%;
+}
+
+li {
+    background-color: #ffffff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Hover Effect for List Items */
+li:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Styling Links */
+a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+/* Back Button Styling */
+a[href="{{ url_for('index') }}"] {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+a[href="{{ url_for('index') }}"]:hover {
     background-color: #0056b3;
 }
