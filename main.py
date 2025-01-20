@@ -207,8 +207,8 @@ def search_universities_near_city(city, interest):
         "q": f"universities near {city} Romania {interest}",
         "location": f"{city}, Romania",
         "num": 10,
-        # "api_key": "9e0409085db46c894a9646b2d03041e2954fc586212772d70c2ab195e435dd69"
-        "api_key": ""
+        "api_key": "9e0409085db46c894a9646b2d03041e2954fc586212772d70c2ab195e435dd69"
+        # "api_key": ""
     }
     search = GoogleSearch(params)
     results = search.get_dict()
@@ -297,14 +297,14 @@ def analyze_and_visualize(df, user_medie):
         histogram_base64 = fig_to_base64(fig)
 
         # Compare user score to average
-        avg_medie = df[bac_column].mean()
-        comparison_text += f"Average Score in this field: {avg_medie:.2f}\n"
-        if user_medie > avg_medie:
-            comparison_text += "Your BAC score is above the average!\n"
-        elif user_medie < avg_medie:
-            comparison_text += "Your BAC score is below the average.\n"
-        else:
-            comparison_text += "Your BAC score is exactly at the average.\n"
+        # avg_medie = df[bac_column].mean()
+        # comparison_text += f"Average Score in this field: {avg_medie:.2f}\n"
+        # if user_medie > avg_medie:
+        #     comparison_text += "Your BAC score is above the average!\n"
+        # elif user_medie < avg_medie:
+        #     comparison_text += "Your BAC score is below the average.\n"
+        # else:
+        #     comparison_text += "Your BAC score is exactly at the average.\n"
 
         return histogram_base64, comparison_text
     else:
@@ -486,7 +486,7 @@ def plot_radar_chart(df_bac, user_data):
     ax.fill(angles, avg_stats, alpha=0.25)
 
     ax.set_thetagrids(np.degrees(angles[:-1]), labels)
-    ax.set_title('Radar Chart: User vs. Dataset Average')
+    # ax.set_title('Radar Chart: User vs. Dataset Average')
     ax.legend(loc='upper right', bbox_to_anchor=(1.1, 1.1))
 
     return fig_to_base64(fig)
@@ -559,7 +559,7 @@ def home_page():
             profil=profil_val,
             specializare=specializare_val,
             subiect_ea=subiect_ea_val,
-            subiect_ec_val = subiect_ec_val,
+            subiect_ec = subiect_ec_val,
             subiect_ed = subiect_ed_val,
             nota_finala_ea = nota_finala_ea_val,
             nota_finala_ec = nota_finala_ec_val,
